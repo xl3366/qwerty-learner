@@ -1,0 +1,626 @@
+[
+    {
+        "name": "der Berg",
+        "trans": [
+            "山"
+        ]
+    },
+    {
+        "name": "die Stadt",
+        "trans": [
+            "城市"
+        ]
+    },
+    {
+        "name": "das Land",
+        "trans": [
+            "国家"
+        ]
+    },
+    {
+        "name": "die Freizeit",
+        "trans": [
+            "业余时间"
+        ]
+    },
+    {
+        "name": "Ägypten",
+        "trans": [
+            "埃及"
+        ]
+    },
+    {
+        "name": "Brasilien",
+        "trans": [
+            "巴西"
+        ]
+    },
+    {
+        "name": "China",
+        "trans": [
+            "中国"
+        ]
+    },
+    {
+        "name": "Griechenland",
+        "trans": [
+            "希腊"
+        ]
+    },
+    {
+        "name": "Italien",
+        "trans": [
+            "意大利"
+        ]
+    },
+    {
+        "name": "Marokko",
+        "trans": [
+            "摩洛哥"
+        ]
+    },
+    {
+        "name": "Mexiko",
+        "trans": [
+            "墨西哥"
+        ]
+    },
+    {
+        "name": "Polen",
+        "trans": [
+            "波兰"
+        ]
+    },
+    {
+        "name": "Russland",
+        "trans": [
+            "俄罗斯"
+        ]
+    },
+    {
+        "name": "Spanien",
+        "trans": [
+            "西班牙"
+        ]
+    },
+    {
+        "name": "die Türkei",
+        "trans": [
+            "土耳其"
+        ]
+    },
+    {
+        "name": "die USA",
+        "trans": [
+            "美国"
+        ]
+    },
+    {
+        "name": "die Sprache",
+        "trans": [
+            "语言"
+        ]
+    },
+    {
+        "name": "Arabisch",
+        "trans": [
+            "阿拉伯语"
+        ]
+    },
+    {
+        "name": "Chinesisch",
+        "trans": [
+            "中文"
+        ]
+    },
+    {
+        "name": "Deutsch",
+        "trans": [
+            "德语"
+        ]
+    },
+    {
+        "name": "Englisch",
+        "trans": [
+            "英语"
+        ]
+    },
+    {
+        "name": "Französisch",
+        "trans": [
+            "法语"
+        ]
+    },
+    {
+        "name": "Hindi",
+        "trans": [
+            "印地语"
+        ]
+    },
+    {
+        "name": "Italienisch",
+        "trans": [
+            "意大利语"
+        ]
+    },
+    {
+        "name": "Japanisch",
+        "trans": [
+            "日语"
+        ]
+    },
+    {
+        "name": "Portugiesisch",
+        "trans": [
+            "葡萄牙语"
+        ]
+    },
+    {
+        "name": "Russisch",
+        "trans": [
+            "俄语"
+        ]
+    },
+    {
+        "name": "Spanisch",
+        "trans": [
+            "西班牙语"
+        ]
+    },
+    {
+        "name": "das Computerspiel",
+        "trans": [
+            "电脑游戏"
+        ]
+    },
+    {
+        "name": "das Restaurant",
+        "trans": [
+            "餐馆"
+        ]
+    },
+    {
+        "name": "das Souvenir",
+        "trans": [
+            "纪念品，纪念礼物"
+        ]
+    },
+    {
+        "name": "das Auto",
+        "trans": [
+            "小轿车、汽车"
+        ]
+    },
+    {
+        "name": "das Bier",
+        "trans": [
+            "啤酒"
+        ]
+    },
+    {
+        "name": "die Blume",
+        "trans": [
+            "花"
+        ]
+    },
+    {
+        "name": "die Bürste",
+        "trans": [
+            "刷子"
+        ]
+    },
+    {
+        "name": "die Flasche",
+        "trans": [
+            "瓶子"
+        ]
+    },
+    {
+        "name": "der Fußball",
+        "trans": [
+            "足球"
+        ]
+    },
+    {
+        "name": "das Gummibärchen",
+        "trans": [
+            "小熊软糖"
+        ]
+    },
+    {
+        "name": "das Herz",
+        "trans": [
+            "心"
+        ]
+    },
+    {
+        "name": "der Hut",
+        "trans": [
+            "帽子"
+        ]
+    },
+    {
+        "name": "das Messer",
+        "trans": [
+            "刀"
+        ]
+    },
+    {
+        "name": "die Postkarte",
+        "trans": [
+            "明信片"
+        ]
+    },
+    {
+        "name": "das Haus",
+        "trans": [
+            "房子，家"
+        ]
+    },
+    {
+        "name": "die Tasse",
+        "trans": [
+            "杯子"
+        ]
+    },
+    {
+        "name": "der Wein",
+        "trans": [
+            "葡萄酒"
+        ]
+    },
+    {
+        "name": "die Uhr",
+        "trans": [
+            "钟点，表，钟"
+        ]
+    },
+    {
+        "name": "der Euro",
+        "trans": [
+            "欧元"
+        ]
+    },
+    {
+        "name": "der Franken",
+        "trans": [
+            "瑞士法郎"
+        ]
+    },
+    {
+        "name": "der Cent",
+        "trans": [
+            "（欧）分"
+        ]
+    },
+    {
+        "name": "der Preis",
+        "trans": [
+            "价格"
+        ]
+    },
+    {
+        "name": "wir",
+        "trans": [
+            "我们"
+        ]
+    },
+    {
+        "name": "ihr",
+        "trans": [
+            "你们"
+        ]
+    },
+    {
+        "name": "sie",
+        "trans": [
+            "他们（第三人称复数）"
+        ]
+    },
+    {
+        "name": "gehen",
+        "trans": [
+            "走"
+        ]
+    },
+    {
+        "name": "spazieren gehen",
+        "trans": [
+            "去散步"
+        ]
+    },
+    {
+        "name": "shoppen gehen",
+        "trans": [
+            "去购物"
+        ]
+    },
+    {
+        "name": "tanzen gehen",
+        "trans": [
+            "去跳舞"
+        ]
+    },
+    {
+        "name": "hören",
+        "trans": [
+            "听"
+        ]
+    },
+    {
+        "name": "Musik hören",
+        "trans": [
+            "听音乐"
+        ]
+    },
+    {
+        "name": "machen",
+        "trans": [
+            "做"
+        ]
+    },
+    {
+        "name": "Sport machen",
+        "trans": [
+            "做运动"
+        ]
+    },
+    {
+        "name": "Musik machen",
+        "trans": [
+            "演奏音乐"
+        ]
+    },
+    {
+        "name": "Pause machen",
+        "trans": [
+            "休息"
+        ]
+    },
+    {
+        "name": "lachen",
+        "trans": [
+            "笑"
+        ]
+    },
+    {
+        "name": "reisen",
+        "trans": [
+            "旅游"
+        ]
+    },
+    {
+        "name": "schwimmen",
+        "trans": [
+            "游泳"
+        ]
+    },
+    {
+        "name": "spielen",
+        "trans": [
+            "玩"
+        ]
+    },
+    {
+        "name": "fotografieren",
+        "trans": [
+            "拍照"
+        ]
+    },
+    {
+        "name": "telefonieren",
+        "trans": [
+            "打电话"
+        ]
+    },
+    {
+        "name": "kommen aus",
+        "trans": [
+            "来自"
+        ]
+    },
+    {
+        "name": "kosten",
+        "trans": [
+            "花费，价格为…"
+        ]
+    },
+    {
+        "name": "wohnen",
+        "trans": [
+            "住"
+        ]
+    },
+    {
+        "name": "hässlich",
+        "trans": [
+            "丑陋的"
+        ]
+    },
+    {
+        "name": "lecker",
+        "trans": [
+            "美味的"
+        ]
+    },
+    {
+        "name": "lustig",
+        "trans": [
+            "好玩的，好笑的"
+        ]
+    },
+    {
+        "name": "langweilig",
+        "trans": [
+            "无聊的"
+        ]
+    },
+    {
+        "name": "cool",
+        "trans": [
+            "酷的"
+        ]
+    },
+    {
+        "name": "teuer",
+        "trans": [
+            "贵的"
+        ]
+    },
+    {
+        "name": "billig",
+        "trans": [
+            "便宜的"
+        ]
+    },
+    {
+        "name": "eins",
+        "trans": [
+            "1"
+        ]
+    },
+    {
+        "name": "zwei",
+        "trans": [
+            "2"
+        ]
+    },
+    {
+        "name": "drei",
+        "trans": [
+            "3"
+        ]
+    },
+    {
+        "name": "vier",
+        "trans": [
+            "4"
+        ]
+    },
+    {
+        "name": "fünf",
+        "trans": [
+            "5"
+        ]
+    },
+    {
+        "name": "sechs",
+        "trans": [
+            "6"
+        ]
+    },
+    {
+        "name": "sieben",
+        "trans": [
+            "7"
+        ]
+    },
+    {
+        "name": "acht",
+        "trans": [
+            "8"
+        ]
+    },
+    {
+        "name": "neun",
+        "trans": [
+            "9"
+        ]
+    },
+    {
+        "name": "zehn",
+        "trans": [
+            "10"
+        ]
+    },
+    {
+        "name": "null",
+        "trans": [
+            "0"
+        ]
+    },
+    {
+        "name": "einhundert",
+        "trans": [
+            "100"
+        ]
+    },
+    {
+        "name": "Woher",
+        "trans": [
+            "从哪里来？"
+        ]
+    },
+    {
+        "name": "Wohin",
+        "trans": [
+            "到哪里去？"
+        ]
+    },
+    {
+        "name": "Viel Spaß",
+        "trans": [
+            "玩得开心！"
+        ]
+    },
+    {
+        "name": "Ich bleibe zu Hause",
+        "trans": [
+            "我呆在家里。"
+        ]
+    },
+    {
+        "name": "Entschuldigung",
+        "trans": [
+            "不好意思，对不起。"
+        ]
+    },
+    {
+        "name": "Sprechen Sie Deutsch",
+        "trans": [
+            "您说德语吗？"
+        ]
+    },
+    {
+        "name": "Woher kommt das",
+        "trans": [
+            "这个是来自哪里的？"
+        ]
+    },
+    {
+        "name": "Woher kommen Sie",
+        "trans": [
+            "您是来自哪里的？"
+        ]
+    },
+    {
+        "name": "Was kostet das",
+        "trans": [
+            "这个多少钱？"
+        ]
+    },
+    {
+        "name": "Das ist teuer",
+        "trans": [
+            "这个好贵！"
+        ]
+    },
+    {
+        "name": "doch",
+        "trans": [
+            "加强语气，无实义"
+        ]
+    },
+    {
+        "name": "gern",
+        "trans": [
+            "喜欢，乐意"
+        ]
+    },
+    {
+        "name": "nicht",
+        "trans": [
+            "不（否定词）"
+        ]
+    }
+]

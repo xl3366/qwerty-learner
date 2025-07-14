@@ -1,0 +1,620 @@
+[
+    {
+        "name": "die Band",
+        "trans": [
+            "乐队"
+        ]
+    },
+    {
+        "name": "das Konzert",
+        "trans": [
+            "音乐会"
+        ]
+    },
+    {
+        "name": "der Sänger",
+        "trans": [
+            "歌手"
+        ]
+    },
+    {
+        "name": "die Sängerin",
+        "trans": [
+            "女歌手"
+        ]
+    },
+    {
+        "name": "das Instrument",
+        "trans": [
+            "乐器"
+        ]
+    },
+    {
+        "name": "das Klavier",
+        "trans": [
+            "钢琴"
+        ]
+    },
+    {
+        "name": "die Gitarre",
+        "trans": [
+            "吉他"
+        ]
+    },
+    {
+        "name": "die Flöte",
+        "trans": [
+            "长笛"
+        ]
+    },
+    {
+        "name": "das Schlagzeug",
+        "trans": [
+            "打击乐器"
+        ]
+    },
+    {
+        "name": "der Bass",
+        "trans": [
+            "低音提琴"
+        ]
+    },
+    {
+        "name": "die Trompete",
+        "trans": [
+            "喇叭，小号"
+        ]
+    },
+    {
+        "name": "das Saxofon",
+        "trans": [
+            "萨克斯"
+        ]
+    },
+    {
+        "name": "die Rockmusik",
+        "trans": [
+            "摇滚乐"
+        ]
+    },
+    {
+        "name": "die Popmusik",
+        "trans": [
+            "流行音乐"
+        ]
+    },
+    {
+        "name": "die Klassik",
+        "trans": [
+            "古典乐，古典文艺"
+        ]
+    },
+    {
+        "name": "der Hip-Hop",
+        "trans": [
+            "嘻哈乐"
+        ]
+    },
+    {
+        "name": "der Jazz",
+        "trans": [
+            "爵士音乐"
+        ]
+    },
+    {
+        "name": "der Stil",
+        "trans": [
+            "风格"
+        ]
+    },
+    {
+        "name": "der Manager",
+        "trans": [
+            "经理"
+        ]
+    },
+    {
+        "name": "die Managerin",
+        "trans": [
+            "女经理"
+        ]
+    },
+    {
+        "name": "der Sozialarbeiter",
+        "trans": [
+            "社会工作者"
+        ]
+    },
+    {
+        "name": "die Sozialarbeiterin",
+        "trans": [
+            "女社会工作者"
+        ]
+    },
+    {
+        "name": "das Profil",
+        "trans": [
+            "特征"
+        ]
+    },
+    {
+        "name": "das Interview",
+        "trans": [
+            "采访"
+        ]
+    },
+    {
+        "name": "das Studienfach",
+        "trans": [
+            "（大学）专业"
+        ]
+    },
+    {
+        "name": "der Körper",
+        "trans": [
+            "身体"
+        ]
+    },
+    {
+        "name": "die Stimme",
+        "trans": [
+            "声音"
+        ]
+    },
+    {
+        "name": "der Rhythmus",
+        "trans": [
+            "旋律，韵律"
+        ]
+    },
+    {
+        "name": "der Anfang",
+        "trans": [
+            "开始，开端"
+        ]
+    },
+    {
+        "name": "der Rap",
+        "trans": [
+            "说唱乐"
+        ]
+    },
+    {
+        "name": "der Reim",
+        "trans": [
+            "韵脚"
+        ]
+    },
+    {
+        "name": "der/die Neue",
+        "trans": [
+            "新人"
+        ]
+    },
+    {
+        "name": "das Tagebuch",
+        "trans": [
+            "日记"
+        ]
+    },
+    {
+        "name": "der Stern",
+        "trans": [
+            "星星"
+        ]
+    },
+    {
+        "name": "der Zug",
+        "trans": [
+            "火车"
+        ]
+    },
+    {
+        "name": "die Politik",
+        "trans": [
+            "政治"
+        ]
+    },
+    {
+        "name": "der Briefkasten",
+        "trans": [
+            "信箱"
+        ]
+    },
+    {
+        "name": "der Ehering",
+        "trans": [
+            "结婚戒指"
+        ]
+    },
+    {
+        "name": "der Start",
+        "trans": [
+            "开始，开端"
+        ]
+    },
+    {
+        "name": "der Mitbewohner",
+        "trans": [
+            "室友"
+        ]
+    },
+    {
+        "name": "die Mitbewohnerin",
+        "trans": [
+            "女室友"
+        ]
+    },
+    {
+        "name": "der Putzplan",
+        "trans": [
+            "清扫计划"
+        ]
+    },
+    {
+        "name": "der Müll",
+        "trans": [
+            "垃圾"
+        ]
+    },
+    {
+        "name": "der Helm",
+        "trans": [
+            "头盔"
+        ]
+    },
+    {
+        "name": "die Hecke",
+        "trans": [
+            "篱笆墙"
+        ]
+    },
+    {
+        "name": "das Heimatland",
+        "trans": [
+            "祖国"
+        ]
+    },
+    {
+        "name": "die Ausbildung",
+        "trans": [
+            "培训"
+        ]
+    },
+    {
+        "name": "das Au-pair",
+        "trans": [
+            "互惠生"
+        ]
+    },
+    {
+        "name": "das Asyl",
+        "trans": [
+            "避难"
+        ]
+    },
+    {
+        "name": "der Krieg",
+        "trans": [
+            "战争"
+        ]
+    },
+    {
+        "name": "der Saisonarbeiter",
+        "trans": [
+            "季节性工人"
+        ]
+    },
+    {
+        "name": "der Saisonarbeiterin",
+        "trans": [
+            "女季节性工人"
+        ]
+    },
+    {
+        "name": "das Austauschprogramm",
+        "trans": [
+            "交流项目"
+        ]
+    },
+    {
+        "name": "der Studienplatz",
+        "trans": [
+            "大学学习位置（或名额）"
+        ]
+    },
+    {
+        "name": "der Grund",
+        "trans": [
+            "原因"
+        ]
+    },
+    {
+        "name": "der Lebenslauf",
+        "trans": [
+            "简历"
+        ]
+    },
+    {
+        "name": "die Schule",
+        "trans": [
+            "学校"
+        ]
+    },
+    {
+        "name": "die Muttersprache",
+        "trans": [
+            "母语"
+        ]
+    },
+    {
+        "name": "die Staatsbürgerschaft",
+        "trans": [
+            "国籍"
+        ]
+    },
+    {
+        "name": "die Staatsangehörigkeit",
+        "trans": [
+            "国籍"
+        ]
+    },
+    {
+        "name": "der Familienstand",
+        "trans": [
+            "婚姻状况"
+        ]
+    },
+    {
+        "name": "das Geburtsjahr",
+        "trans": [
+            "出生年份"
+        ]
+    },
+    {
+        "name": "der Geburtsort",
+        "trans": [
+            "出生地"
+        ]
+    },
+    {
+        "name": "der Zuwanderer",
+        "trans": [
+            "移民"
+        ]
+    },
+    {
+        "name": "die Zuwanderin",
+        "trans": [
+            "女移民"
+        ]
+    },
+    {
+        "name": "der Pass",
+        "trans": [
+            "护照"
+        ]
+    },
+    {
+        "name": "der Schüler",
+        "trans": [
+            "学生"
+        ]
+    },
+    {
+        "name": "die Schülerin",
+        "trans": [
+            "女学生"
+        ]
+    },
+    {
+        "name": "motivieren",
+        "trans": [
+            "激发…的积极性；对…说明理由"
+        ]
+    },
+    {
+        "name": "diskutieren",
+        "trans": [
+            "讨论"
+        ]
+    },
+    {
+        "name": "passieren",
+        "trans": [
+            "发生"
+        ]
+    },
+    {
+        "name": "akzeptieren",
+        "trans": [
+            "承认，接受"
+        ]
+    },
+    {
+        "name": "irritieren",
+        "trans": [
+            "刺激，激怒"
+        ]
+    },
+    {
+        "name": "beantragen",
+        "trans": [
+            "提出，申请"
+        ]
+    },
+    {
+        "name": "flüchten",
+        "trans": [
+            "逃亡，逃走"
+        ]
+    },
+    {
+        "name": "abschließen",
+        "trans": [
+            "完成，结束；锁上；缔结"
+        ]
+    },
+    {
+        "name": "auftreten",
+        "trans": [
+            "出现；登台"
+        ]
+    },
+    {
+        "name": "umziehen",
+        "trans": [
+            "搬家"
+        ]
+    },
+    {
+        "name": "annehmen",
+        "trans": [
+            "接受"
+        ]
+    },
+    {
+        "name": "üben",
+        "trans": [
+            "练习，训练"
+        ]
+    },
+    {
+        "name": "wissen",
+        "trans": [
+            "知道"
+        ]
+    },
+    {
+        "name": "fröhlich",
+        "trans": [
+            "喜悦的"
+        ]
+    },
+    {
+        "name": "traurig",
+        "trans": [
+            "悲伤的"
+        ]
+    },
+    {
+        "name": "rhythmisch",
+        "trans": [
+            "有节奏的"
+        ]
+    },
+    {
+        "name": "langsam",
+        "trans": [
+            "慢的"
+        ]
+    },
+    {
+        "name": "nah",
+        "trans": [
+            "近的"
+        ]
+    },
+    {
+        "name": "freundlich",
+        "trans": [
+            "友好的"
+        ]
+    },
+    {
+        "name": "böse",
+        "trans": [
+            "恼怒的，生气的"
+        ]
+    },
+    {
+        "name": "automatisch",
+        "trans": [
+            "自动的"
+        ]
+    },
+    {
+        "name": "ledig",
+        "trans": [
+            "单身的"
+        ]
+    },
+    {
+        "name": "geschieden",
+        "trans": [
+            "离异的"
+        ]
+    },
+    {
+        "name": "blöd",
+        "trans": [
+            "令人讨厌的"
+        ]
+    },
+    {
+        "name": "bekannt",
+        "trans": [
+            "有名的"
+        ]
+    },
+    {
+        "name": "beliebt",
+        "trans": [
+            "受欢迎的"
+        ]
+    },
+    {
+        "name": "genug",
+        "trans": [
+            "足够"
+        ]
+    },
+    {
+        "name": "hoffentlich",
+        "trans": [
+            "希望"
+        ]
+    },
+    {
+        "name": "überall",
+        "trans": [
+            "到处"
+        ]
+    },
+    {
+        "name": "unterwegs",
+        "trans": [
+            "半路上"
+        ]
+    },
+    {
+        "name": "dort",
+        "trans": [
+            "那里"
+        ]
+    },
+    {
+        "name": "Was für ein",
+        "trans": [
+            "什么样的…？"
+        ]
+    },
+    {
+        "name": "Ich habe mich verliebt",
+        "trans": [
+            "我恋爱了。"
+        ]
+    },
+    {
+        "name": "In Deutschland ist das anders/genauso",
+        "trans": [
+            "在德国是不一样的/也是这样的。"
+        ]
+    },
+    {
+        "name": "Wir diskutieren über Politik",
+        "trans": [
+            "我们讨论政治。"
+        ]
+    }
+]

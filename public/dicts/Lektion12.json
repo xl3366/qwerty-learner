@@ -1,0 +1,668 @@
+[
+    {
+        "name": "das Chaos",
+        "trans": [
+            "混乱"
+        ]
+    },
+    {
+        "name": "die Ordnung",
+        "trans": [
+            "秩序"
+        ]
+    },
+    {
+        "name": "das Hochhaus",
+        "trans": [
+            "大厦，高层建筑"
+        ]
+    },
+    {
+        "name": "die Brücke",
+        "trans": [
+            "桥，桥梁"
+        ]
+    },
+    {
+        "name": "die Kirche",
+        "trans": [
+            "教堂"
+        ]
+    },
+    {
+        "name": "die Mitte",
+        "trans": [
+            "中间"
+        ]
+    },
+    {
+        "name": "das Schloss",
+        "trans": [
+            "宫殿，城堡"
+        ]
+    },
+    {
+        "name": "das Design",
+        "trans": [
+            "设计"
+        ]
+    },
+    {
+        "name": "das Beispiel",
+        "trans": [
+            "例子"
+        ]
+    },
+    {
+        "name": "die Ecke",
+        "trans": [
+            "角落"
+        ]
+    },
+    {
+        "name": "die Stadtplanung",
+        "trans": [
+            "城市规划"
+        ]
+    },
+    {
+        "name": "der Experte",
+        "trans": [
+            "专家"
+        ]
+    },
+    {
+        "name": "die Expertin",
+        "trans": [
+            "女专家"
+        ]
+    },
+    {
+        "name": "die Bank",
+        "trans": [
+            "长椅"
+        ]
+    },
+    {
+        "name": "der Weg",
+        "trans": [
+            "道路"
+        ]
+    },
+    {
+        "name": "der Gehweg",
+        "trans": [
+            "人行道"
+        ]
+    },
+    {
+        "name": "der Verkehr",
+        "trans": [
+            "交通"
+        ]
+    },
+    {
+        "name": "der Fußgänger",
+        "trans": [
+            "行人"
+        ]
+    },
+    {
+        "name": "die Fußgängerin",
+        "trans": [
+            "女行人"
+        ]
+    },
+    {
+        "name": "die Meinung",
+        "trans": [
+            "意见，看法"
+        ]
+    },
+    {
+        "name": "der Brunnen",
+        "trans": [
+            "井，喷泉"
+        ]
+    },
+    {
+        "name": "das Gartenlokal",
+        "trans": [
+            "花园饭店"
+        ]
+    },
+    {
+        "name": "der Markt",
+        "trans": [
+            "集市"
+        ]
+    },
+    {
+        "name": "die Spielstraße",
+        "trans": [
+            "玩耍的街道"
+        ]
+    },
+    {
+        "name": "das Möbel",
+        "trans": [
+            "家具"
+        ]
+    },
+    {
+        "name": "der Abfallkorb",
+        "trans": [
+            "废物篓"
+        ]
+    },
+    {
+        "name": "das Wartehäuschen",
+        "trans": [
+            "候车亭"
+        ]
+    },
+    {
+        "name": "der Typ",
+        "trans": [
+            "类型"
+        ]
+    },
+    {
+        "name": "die Süßigkeit",
+        "trans": [
+            "甜品"
+        ]
+    },
+    {
+        "name": "der Zettel",
+        "trans": [
+            "便条，纸条"
+        ]
+    },
+    {
+        "name": "das Dokument",
+        "trans": [
+            "文件"
+        ]
+    },
+    {
+        "name": "der Teppich",
+        "trans": [
+            "地毯"
+        ]
+    },
+    {
+        "name": "das Zuhause",
+        "trans": [
+            "家，住处"
+        ]
+    },
+    {
+        "name": "der Keks",
+        "trans": [
+            "饼干"
+        ]
+    },
+    {
+        "name": "der Arbeitsplatz",
+        "trans": [
+            "工作地点，工作场所"
+        ]
+    },
+    {
+        "name": "die Wand",
+        "trans": [
+            "墙"
+        ]
+    },
+    {
+        "name": "der Bildschirm",
+        "trans": [
+            "屏幕"
+        ]
+    },
+    {
+        "name": "die Computertastatur",
+        "trans": [
+            "电脑键盘"
+        ]
+    },
+    {
+        "name": "die Computermaus",
+        "trans": [
+            "（电脑）鼠标"
+        ]
+    },
+    {
+        "name": "der Job",
+        "trans": [
+            "工作"
+        ]
+    },
+    {
+        "name": "der Kuli",
+        "trans": [
+            "圆珠笔"
+        ]
+    },
+    {
+        "name": "der Eingang",
+        "trans": [
+            "入口"
+        ]
+    },
+    {
+        "name": "der Boden",
+        "trans": [
+            "地面"
+        ]
+    },
+    {
+        "name": "das Regal",
+        "trans": [
+            "架子"
+        ]
+    },
+    {
+        "name": "die Energie",
+        "trans": [
+            "活力，精力；能量"
+        ]
+    },
+    {
+        "name": "die Kerze",
+        "trans": [
+            "蜡烛"
+        ]
+    },
+    {
+        "name": "die Tür",
+        "trans": [
+            "门"
+        ]
+    },
+    {
+        "name": "die Kamera",
+        "trans": [
+            "照相机"
+        ]
+    },
+    {
+        "name": "der Komiker",
+        "trans": [
+            "滑稽演员"
+        ]
+    },
+    {
+        "name": "die Komikerin",
+        "trans": [
+            "女滑稽演员"
+        ]
+    },
+    {
+        "name": "der Schauspieler",
+        "trans": [
+            "演员"
+        ]
+    },
+    {
+        "name": "die Schauspielerin",
+        "trans": [
+            "女演员"
+        ]
+    },
+    {
+        "name": "der Autor",
+        "trans": [
+            "作者，作家"
+        ]
+    },
+    {
+        "name": "die Autorin",
+        "trans": [
+            "女作者，女作家"
+        ]
+    },
+    {
+        "name": "der Alltag",
+        "trans": [
+            "日常，平日"
+        ]
+    },
+    {
+        "name": "der Teller",
+        "trans": [
+            "盘子"
+        ]
+    },
+    {
+        "name": "die Suppe",
+        "trans": [
+            "汤"
+        ]
+    },
+    {
+        "name": "der Buchstabe",
+        "trans": [
+            "字母"
+        ]
+    },
+    {
+        "name": "der Parkplatz",
+        "trans": [
+            "停车位"
+        ]
+    },
+    {
+        "name": "der Chat",
+        "trans": [
+            "聊天，闲谈"
+        ]
+    },
+    {
+        "name": "die Größe",
+        "trans": [
+            "大小；身高"
+        ]
+    },
+    {
+        "name": "das Projekt",
+        "trans": [
+            "项目"
+        ]
+    },
+    {
+        "name": "erklären",
+        "trans": [
+            "说明，解释"
+        ]
+    },
+    {
+        "name": "bedeuten",
+        "trans": [
+            "意思是，相当于"
+        ]
+    },
+    {
+        "name": "beschreiben",
+        "trans": [
+            "描述"
+        ]
+    },
+    {
+        "name": "stellen",
+        "trans": [
+            "放置；安排；提出"
+        ]
+    },
+    {
+        "name": "hängen",
+        "trans": [
+            "吊，挂"
+        ]
+    },
+    {
+        "name": "legen",
+        "trans": [
+            "平放，铺设"
+        ]
+    },
+    {
+        "name": "ordnen",
+        "trans": [
+            "整理，处理"
+        ]
+    },
+    {
+        "name": "warten",
+        "trans": [
+            "等待，等候"
+        ]
+    },
+    {
+        "name": "ordentlich",
+        "trans": [
+            "整洁的"
+        ]
+    },
+    {
+        "name": "chaotisch",
+        "trans": [
+            "混乱的"
+        ]
+    },
+    {
+        "name": "hektisch",
+        "trans": [
+            "仓促的，忙乱的"
+        ]
+    },
+    {
+        "name": "gemütlich",
+        "trans": [
+            "舒适的"
+        ]
+    },
+    {
+        "name": "breit",
+        "trans": [
+            "宽阔的"
+        ]
+    },
+    {
+        "name": "bequem",
+        "trans": [
+            "舒服的"
+        ]
+    },
+    {
+        "name": "unbequem",
+        "trans": [
+            "不舒服的"
+        ]
+    },
+    {
+        "name": "praktisch",
+        "trans": [
+            "实用的"
+        ]
+    },
+    {
+        "name": "unpraktisch",
+        "trans": [
+            "不实用的"
+        ]
+    },
+    {
+        "name": "stabil",
+        "trans": [
+            "坚固的，稳固的"
+        ]
+    },
+    {
+        "name": "originell",
+        "trans": [
+            "奇特的；独特的"
+        ]
+    },
+    {
+        "name": "gestresst",
+        "trans": [
+            "有压力的，紧张的"
+        ]
+    },
+    {
+        "name": "persönlich",
+        "trans": [
+            "个人的，亲自的"
+        ]
+    },
+    {
+        "name": "leer",
+        "trans": [
+            "空的"
+        ]
+    },
+    {
+        "name": "frei",
+        "trans": [
+            "空闲的，自由的"
+        ]
+    },
+    {
+        "name": "zufrieden",
+        "trans": [
+            "满意的，满足的"
+        ]
+    },
+    {
+        "name": "unzufrieden",
+        "trans": [
+            "不满意的"
+        ]
+    },
+    {
+        "name": "hell",
+        "trans": [
+            "明亮的"
+        ]
+    },
+    {
+        "name": "besser",
+        "trans": [
+            "较好的，更好的"
+        ]
+    },
+    {
+        "name": "neu",
+        "trans": [
+            "新的"
+        ]
+    },
+    {
+        "name": "genau",
+        "trans": [
+            "准确的"
+        ]
+    },
+    {
+        "name": "in der Mitte",
+        "trans": [
+            "在中间"
+        ]
+    },
+    {
+        "name": "oben",
+        "trans": [
+            "上边"
+        ]
+    },
+    {
+        "name": "unten",
+        "trans": [
+            "下边"
+        ]
+    },
+    {
+        "name": "vorne",
+        "trans": [
+            "前边"
+        ]
+    },
+    {
+        "name": "hinten",
+        "trans": [
+            "后边"
+        ]
+    },
+    {
+        "name": "früher",
+        "trans": [
+            "以前，从前"
+        ]
+    },
+    {
+        "name": "endlich",
+        "trans": [
+            "最终，终于"
+        ]
+    },
+    {
+        "name": "neben",
+        "trans": [
+            "在…旁边"
+        ]
+    },
+    {
+        "name": "unter",
+        "trans": [
+            "在…下边"
+        ]
+    },
+    {
+        "name": "über",
+        "trans": [
+            "超过，在…之上"
+        ]
+    },
+    {
+        "name": "vor",
+        "trans": [
+            "在…前面"
+        ]
+    },
+    {
+        "name": "hinter",
+        "trans": [
+            "在…后面"
+        ]
+    },
+    {
+        "name": "zwischen",
+        "trans": [
+            "在…之间"
+        ]
+    },
+    {
+        "name": "am liebsten",
+        "trans": [
+            "最喜欢"
+        ]
+    },
+    {
+        "name": "andere",
+        "trans": [
+            "其他的"
+        ]
+    },
+    {
+        "name": "der Größe nach",
+        "trans": [
+            "按照大小（高矮）"
+        ]
+    },
+    {
+        "name": "Ich finde,dass",
+        "trans": [
+            "我觉得…"
+        ]
+    },
+    {
+        "name": "Es ist wichtig,dass",
+        "trans": [
+            "…是重要的"
+        ]
+    },
+    {
+        "name": "Ich bin der Meinung,dass",
+        "trans": [
+            "我的意见是…"
+        ]
+    },
+    {
+        "name": "Ich möchte,dass",
+        "trans": [
+            "我想要…"
+        ]
+    }
+]

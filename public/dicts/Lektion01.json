@@ -1,0 +1,483 @@
+[
+    {
+        "name": "Deutschland",
+        "trans": [
+            "德国"
+        ]
+    },
+    {
+        "name": "Österreich",
+        "trans": [
+            "奥地利"
+        ]
+    },
+    {
+        "name": "die Schweiz",
+        "trans": [
+            "瑞士"
+        ]
+    },
+    {
+        "name": "der Name",
+        "trans": [
+            "姓名"
+        ]
+    },
+    {
+        "name": "der Vorname",
+        "trans": [
+            "名字"
+        ]
+    },
+    {
+        "name": "der Nachname",
+        "trans": [
+            "姓氏"
+        ]
+    },
+    {
+        "name": "der Kaffee",
+        "trans": [
+            "咖啡"
+        ]
+    },
+    {
+        "name": "der Tee",
+        "trans": [
+            "茶"
+        ]
+    },
+    {
+        "name": "die Schokolade",
+        "trans": [
+            "巧克力"
+        ]
+    },
+    {
+        "name": "die Chips",
+        "trans": [
+            "薯片"
+        ]
+    },
+    {
+        "name": "das Kino",
+        "trans": [
+            "电影院"
+        ]
+    },
+    {
+        "name": "das Theater",
+        "trans": [
+            "剧院，戏剧"
+        ]
+    },
+    {
+        "name": "der Sport",
+        "trans": [
+            "体育"
+        ]
+    },
+    {
+        "name": "die Musik",
+        "trans": [
+            "音乐"
+        ]
+    },
+    {
+        "name": "der Fußball",
+        "trans": [
+            "足球"
+        ]
+    },
+    {
+        "name": "das Tennis",
+        "trans": [
+            "网球"
+        ]
+    },
+    {
+        "name": "die Sonne",
+        "trans": [
+            "太阳"
+        ]
+    },
+    {
+        "name": "der Regen",
+        "trans": [
+            "雨"
+        ]
+    },
+    {
+        "name": "das Telefon",
+        "trans": [
+            "电话"
+        ]
+    },
+    {
+        "name": "die E-Mail",
+        "trans": [
+            "电子邮件"
+        ]
+    },
+    {
+        "name": "die Tasche",
+        "trans": [
+            "包"
+        ]
+    },
+    {
+        "name": "der Stift",
+        "trans": [
+            "笔"
+        ]
+    },
+    {
+        "name": "das Handy",
+        "trans": [
+            "手机"
+        ]
+    },
+    {
+        "name": "das Buch",
+        "trans": [
+            "书"
+        ]
+    },
+    {
+        "name": "der Schlüssel",
+        "trans": [
+            "钥匙"
+        ]
+    },
+    {
+        "name": "die Flasche",
+        "trans": [
+            "瓶子"
+        ]
+    },
+    {
+        "name": "das Portmonee",
+        "trans": [
+            "钱包"
+        ]
+    },
+    {
+        "name": "die Brille",
+        "trans": [
+            "眼镜"
+        ]
+    },
+    {
+        "name": "der Lippenstift",
+        "trans": [
+            "唇膏，口红"
+        ]
+    },
+    {
+        "name": "das Foto",
+        "trans": [
+            "照片"
+        ]
+    },
+    {
+        "name": "das Heft",
+        "trans": [
+            "练习本"
+        ]
+    },
+    {
+        "name": "das Taschentuch",
+        "trans": [
+            "手帕，纸巾"
+        ]
+    },
+    {
+        "name": "die Zigarette",
+        "trans": [
+            "香烟"
+        ]
+    },
+    {
+        "name": "die Zeitung",
+        "trans": [
+            "报纸"
+        ]
+    },
+    {
+        "name": "der Spiegel",
+        "trans": [
+            "镜子"
+        ]
+    },
+    {
+        "name": "die Zahnbürste",
+        "trans": [
+            "牙刷"
+        ]
+    },
+    {
+        "name": "der Mann",
+        "trans": [
+            "男人，丈夫"
+        ]
+    },
+    {
+        "name": "die Frau",
+        "trans": [
+            "女人，妻子，女士（称呼），太太（称呼）"
+        ]
+    },
+    {
+        "name": "das Wort",
+        "trans": [
+            "词"
+        ]
+    },
+    {
+        "name": "du",
+        "trans": [
+            "你"
+        ]
+    },
+    {
+        "name": "ich",
+        "trans": [
+            "我"
+        ]
+    },
+    {
+        "name": "er",
+        "trans": [
+            "他（指第三人称单数阳性名词）"
+        ]
+    },
+    {
+        "name": "sie",
+        "trans": [
+            "她（指第三人称单数阴性名词），他们（指第三人称复数）"
+        ]
+    },
+    {
+        "name": "Sie",
+        "trans": [
+            "您，你们（指第二人称尊称或复数）"
+        ]
+    },
+    {
+        "name": "heißen",
+        "trans": [
+            "名叫"
+        ]
+    },
+    {
+        "name": "sein",
+        "trans": [
+            "是"
+        ]
+    },
+    {
+        "name": "schreiben",
+        "trans": [
+            "写"
+        ]
+    },
+    {
+        "name": "gut",
+        "trans": [
+            "好的"
+        ]
+    },
+    {
+        "name": "schön",
+        "trans": [
+            "美丽的，漂亮的"
+        ]
+    },
+    {
+        "name": "Wie",
+        "trans": [
+            "怎么样？"
+        ]
+    },
+    {
+        "name": "Wer",
+        "trans": [
+            "谁？"
+        ]
+    },
+    {
+        "name": "Was",
+        "trans": [
+            "什么？"
+        ]
+    },
+    {
+        "name": "Hallo",
+        "trans": [
+            "你好！"
+        ]
+    },
+    {
+        "name": "Guten Tag",
+        "trans": [
+            "你好！白天好！"
+        ]
+    },
+    {
+        "name": "Guten Morgen",
+        "trans": [
+            "早上好！"
+        ]
+    },
+    {
+        "name": "Guten Abend",
+        "trans": [
+            "晚上好！"
+        ]
+    },
+    {
+        "name": "Gute Nacht",
+        "trans": [
+            "晚安！"
+        ]
+    },
+    {
+        "name": "Mein Name ist",
+        "trans": [
+            "我的名字是…"
+        ]
+    },
+    {
+        "name": "Ich komme aus",
+        "trans": [
+            "我来自…"
+        ]
+    },
+    {
+        "name": "Ich mag",
+        "trans": [
+            "我喜欢…"
+        ]
+    },
+    {
+        "name": "Tschüss",
+        "trans": [
+            "再见！（口语）"
+        ]
+    },
+    {
+        "name": "Auf Wiedersehen",
+        "trans": [
+            "再见！"
+        ]
+    },
+    {
+        "name": "Ciao",
+        "trans": [
+            "再见！（口语）"
+        ]
+    },
+    {
+        "name": "Wie geht es",
+        "trans": [
+            "（你）好吗？过得怎么样？"
+        ]
+    },
+    {
+        "name": "Wie heißt das auf Deutsch",
+        "trans": [
+            "这个用德语怎么说"
+        ]
+    },
+    {
+        "name": "Wie schreibt man das",
+        "trans": [
+            "这个用德语怎么写？"
+        ]
+    },
+    {
+        "name": "Wie bitte",
+        "trans": [
+            "什么？（请再说一遍）"
+        ]
+    },
+    {
+        "name": "Herr Müller",
+        "trans": [
+            "米勒先生"
+        ]
+    },
+    {
+        "name": "Frau Müller",
+        "trans": [
+            "米勒女士，米勒太太"
+        ]
+    },
+    {
+        "name": "Das ist",
+        "trans": [
+            "这是…"
+        ]
+    },
+    {
+        "name": "Noch einmal",
+        "trans": [
+            "bitte",
+            "请再说一遍。"
+        ]
+    },
+    {
+        "name": "danke/danke schön",
+        "trans": [
+            "谢谢/多谢"
+        ]
+    },
+    {
+        "name": "bitte/bitte schön",
+        "trans": [
+            "不客气"
+        ]
+    },
+    {
+        "name": "und",
+        "trans": [
+            "和"
+        ]
+    },
+    {
+        "name": "oder",
+        "trans": [
+            "或"
+        ]
+    },
+    {
+        "name": "ja",
+        "trans": [
+            "是"
+        ]
+    },
+    {
+        "name": "nein",
+        "trans": [
+            "不"
+        ]
+    },
+    {
+        "name": "auch",
+        "trans": [
+            "也"
+        ]
+    },
+    {
+        "name": "da",
+        "trans": [
+            "那里，那时"
+        ]
+    },
+    {
+        "name": "in",
+        "trans": [
+            "在…里面"
+        ]
+    }
+]
