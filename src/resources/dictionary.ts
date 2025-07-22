@@ -142,7 +142,7 @@ const germanExam: DictionaryResource[] = [
       "A2"
     ],
     "url": "/dicts/Lektion11.json",
-    "length": 103,
+    "length": 100,
     "language": "de",
     "languageCategory": "de"
   },
@@ -155,7 +155,7 @@ const germanExam: DictionaryResource[] = [
       "A2"
     ],
     "url": "/dicts/Lektion12.json",
-    "length": 111,
+    "length": 107,
     "language": "de",
     "languageCategory": "de"
   },
@@ -168,7 +168,7 @@ const germanExam: DictionaryResource[] = [
       "A2"
     ],
     "url": "/dicts/Lektion13.json",
-    "length": 0,
+    "length": 86,
     "language": "de",
     "languageCategory": "de"
   },

@@ -1,1 +1,518 @@
-[]
+[
+    {
+        "name": "die Dame",
+        "trans": [
+            "夫人，女士"
+        ]
+    },
+    {
+        "name": "der Herr",
+        "trans": [
+            "男子，先生"
+        ]
+    },
+    {
+        "name": "der Kiosk",
+        "trans": [
+            "亭子，（售书报、香烟、水果、点心等的）小亭"
+        ]
+    },
+    {
+        "name": "die Mode",
+        "trans": [
+            "流行样式，时尚"
+        ]
+    },
+    {
+        "name": "der Optiker",
+        "trans": [
+            "眼镜店"
+        ]
+    },
+    {
+        "name": "das Haushaltswarengeschäft",
+        "trans": [
+            "日用品店"
+        ]
+    },
+    {
+        "name": "der Buchladen",
+        "trans": [
+            "书店"
+        ]
+    },
+    {
+        "name": "der Elektroladen",
+        "trans": [
+            "电器商店"
+        ]
+    },
+    {
+        "name": "die Apotheke",
+        "trans": [
+            "药店"
+        ]
+    },
+    {
+        "name": "die Drogerie",
+        "trans": [
+            "药妆店"
+        ]
+    },
+    {
+        "name": "die Bäckerei",
+        "trans": [
+            "面包房"
+        ]
+    },
+    {
+        "name": "der Schreibwarenladen",
+        "trans": [
+            "文具店"
+        ]
+    },
+    {
+        "name": "das Schmuckgeschäft",
+        "trans": [
+            "饰品店"
+        ]
+    },
+    {
+        "name": "der Schuhladen",
+        "trans": [
+            "鞋店"
+        ]
+    },
+    {
+        "name": "das Spielzeuggeschäft",
+        "trans": [
+            "玩具店"
+        ]
+    },
+    {
+        "name": "der Friseur",
+        "trans": [
+            "理发店"
+        ]
+    },
+    {
+        "name": "die Pfanne",
+        "trans": [
+            "平底锅"
+        ]
+    },
+    {
+        "name": "der Topf",
+        "trans": [
+            "锅"
+        ]
+    },
+    {
+        "name": "die Crème",
+        "trans": [
+            "面霜；奶油"
+        ]
+    },
+    {
+        "name": "der erste Stock",
+        "trans": [
+            "二楼"
+        ]
+    },
+    {
+        "name": "das Erdgeschoss",
+        "trans": [
+            "底层，一楼"
+        ]
+    },
+    {
+        "name": "der Ausgang",
+        "trans": [
+            "出口"
+        ]
+    },
+    {
+        "name": "der Aufzug",
+        "trans": [
+            "电梯"
+        ]
+    },
+    {
+        "name": "die Post",
+        "trans": [
+            "邮局；邮递业务，邮件"
+        ]
+    },
+    {
+        "name": "das WC",
+        "trans": [
+            "厕所"
+        ]
+    },
+    {
+        "name": "das Taxi",
+        "trans": [
+            "出租车"
+        ]
+    },
+    {
+        "name": "die Bank",
+        "trans": [
+            "银行"
+        ]
+    },
+    {
+        "name": "der Geldautomat",
+        "trans": [
+            "自动取款机"
+        ]
+    },
+    {
+        "name": "die Spülmaschine",
+        "trans": [
+            "洗碗机"
+        ]
+    },
+    {
+        "name": "die Waschmaschine",
+        "trans": [
+            "洗衣机"
+        ]
+    },
+    {
+        "name": "der Föhn",
+        "trans": [
+            "吹风机"
+        ]
+    },
+    {
+        "name": "die Zahncreme",
+        "trans": [
+            "牙膏"
+        ]
+    },
+    {
+        "name": "die Tablette",
+        "trans": [
+            "药片"
+        ]
+    },
+    {
+        "name": "die Kontaktlinse",
+        "trans": [
+            "隐形眼镜"
+        ]
+    },
+    {
+        "name": "die Briefmarke",
+        "trans": [
+            "邮票"
+        ]
+    },
+    {
+        "name": "der Briefumschlag",
+        "trans": [
+            "信封"
+        ]
+    },
+    {
+        "name": "der Ohrring",
+        "trans": [
+            "耳环"
+        ]
+    },
+    {
+        "name": "der Einkauf",
+        "trans": [
+            "购买；买进的东西"
+        ]
+    },
+    {
+        "name": "die Einkaufsliste",
+        "trans": [
+            "购物清单"
+        ]
+    },
+    {
+        "name": "der Verkäufer",
+        "trans": [
+            "售货员"
+        ]
+    },
+    {
+        "name": "die Verkäuferin",
+        "trans": [
+            "女售货员"
+        ]
+    },
+    {
+        "name": "das Angebot",
+        "trans": [
+            "供应，报价，特价商品"
+        ]
+    },
+    {
+        "name": "die Kasse",
+        "trans": [
+            "收银台"
+        ]
+    },
+    {
+        "name": "das Fernsehen",
+        "trans": [
+            "电视，电视台，电视节目"
+        ]
+    },
+    {
+        "name": "die Ausstellung",
+        "trans": [
+            "展览（会），签发"
+        ]
+    },
+    {
+        "name": "der Kasten",
+        "trans": [
+            "箱，抽屉"
+        ]
+    },
+    {
+        "name": "das Futter",
+        "trans": [
+            "饲料"
+        ]
+    },
+    {
+        "name": "der Online-Shop",
+        "trans": [
+            "网店"
+        ]
+    },
+    {
+        "name": "das Formular",
+        "trans": [
+            "表格"
+        ]
+    },
+    {
+        "name": "die Datei",
+        "trans": [
+            "数据"
+        ]
+    },
+    {
+        "name": "der Artikel",
+        "trans": [
+            "商品；冠词；文章"
+        ]
+    },
+    {
+        "name": "der Betrag",
+        "trans": [
+            "款项，金额"
+        ]
+    },
+    {
+        "name": "das Paket",
+        "trans": [
+            "包裹，邮包"
+        ]
+    },
+    {
+        "name": "die Information",
+        "trans": [
+            "信息；资料"
+        ]
+    },
+    {
+        "name": "der Kontakt",
+        "trans": [
+            "接触，联系"
+        ]
+    },
+    {
+        "name": "der Versand",
+        "trans": [
+            "（货物的）寄发，发送"
+        ]
+    },
+    {
+        "name": "der Gruß",
+        "trans": [
+            "问好，问候"
+        ]
+    },
+    {
+        "name": "die Sache",
+        "trans": [
+            "事情；东西"
+        ]
+    },
+    {
+        "name": "aufmachen",
+        "trans": [
+            "打开"
+        ]
+    },
+    {
+        "name": "zumachen",
+        "trans": [
+            "关闭"
+        ]
+    },
+    {
+        "name": "vergleichen",
+        "trans": [
+            "比较"
+        ]
+    },
+    {
+        "name": "überweisen",
+        "trans": [
+            "汇款"
+        ]
+    },
+    {
+        "name": "ausfüllen",
+        "trans": [
+            "填写"
+        ]
+    },
+    {
+        "name": "löschen",
+        "trans": [
+            "清除，消除"
+        ]
+    },
+    {
+        "name": "schicken",
+        "trans": [
+            "寄送，派遣"
+        ]
+    },
+    {
+        "name": "ändern",
+        "trans": [
+            "修改，改变"
+        ]
+    },
+    {
+        "name": "empfehlen",
+        "trans": [
+            "推荐"
+        ]
+    },
+    {
+        "name": "bar",
+        "trans": [
+            "现金的，真正的，光着的"
+        ]
+    },
+    {
+        "name": "nützlich",
+        "trans": [
+            "有用的，有用的"
+        ]
+    },
+    {
+        "name": "günstig",
+        "trans": [
+            "有利的，实惠的"
+        ]
+    },
+    {
+        "name": "vernünftig",
+        "trans": [
+            "理智的，冷静的"
+        ]
+    },
+    {
+        "name": "fair",
+        "trans": [
+            "正派的，公平的"
+        ]
+    },
+    {
+        "name": "bewusst",
+        "trans": [
+            "清醒的；有意的；自觉的"
+        ]
+    },
+    {
+        "name": "spontan",
+        "trans": [
+            "自发的，一时冲动的"
+        ]
+    },
+    {
+        "name": "egal",
+        "trans": [
+            "随便的，无所谓的"
+        ]
+    },
+    {
+        "name": "multikulti",
+        "trans": [
+            "多文化的"
+        ]
+    },
+    {
+        "name": "froh",
+        "trans": [
+            "欢乐的，高兴的"
+        ]
+    },
+    {
+        "name": "welcher/welches/welche",
+        "trans": [
+            "哪一个，哪一些"
+        ]
+    },
+    {
+        "name": "dieser/dieses/diese",
+        "trans": [
+            "这个，这些"
+        ]
+    },
+    {
+        "name": "seit",
+        "trans": [
+            "自从，从…以来"
+        ]
+    },
+    {
+        "name": "ab",
+        "trans": [
+            "从…起"
+        ]
+    },
+    {
+        "name": "nach",
+        "trans": [
+            "在…之后"
+        ]
+    },
+    {
+        "name": "vor",
+        "trans": [
+            "在…之前"
+        ]
+    },
+    {
+        "name": "zwischen",
+        "trans": [
+            "在…之间"
+        ]
+    },
+    {
+        "name": "deshalb",
+        "trans": [
+            "所以"
+        ]
+    },
+    {
+        "name": "außerdem",
+        "trans": [
+            "另外"
+        ]
+    }
+]

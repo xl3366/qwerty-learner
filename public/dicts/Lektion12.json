@@ -640,29 +640,5 @@
         "trans": [
             "按照大小（高矮）"
         ]
-    },
-    {
-        "name": "Ich finde,dass",
-        "trans": [
-            "我觉得…"
-        ]
-    },
-    {
-        "name": "Es ist wichtig,dass",
-        "trans": [
-            "…是重要的"
-        ]
-    },
-    {
-        "name": "Ich bin der Meinung,dass",
-        "trans": [
-            "我的意见是…"
-        ]
-    },
-    {
-        "name": "Ich möchte,dass",
-        "trans": [
-            "我想要…"
-        ]
     }
 ]

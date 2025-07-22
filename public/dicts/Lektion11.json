@@ -306,7 +306,7 @@
         ]
     },
     {
-        "name": "der Saisonarbeiterin",
+        "name": "die Saisonarbeiterin",
         "trans": [
             "女季节性工人"
         ]
@@ -597,24 +597,6 @@
         "name": "Was für ein",
         "trans": [
             "什么样的…？"
-        ]
-    },
-    {
-        "name": "Ich habe mich verliebt",
-        "trans": [
-            "我恋爱了。"
-        ]
-    },
-    {
-        "name": "In Deutschland ist das anders/genauso",
-        "trans": [
-            "在德国是不一样的/也是这样的。"
-        ]
-    },
-    {
-        "name": "Wir diskutieren über Politik",
-        "trans": [
-            "我们讨论政治。"
         ]
     }
 ]
