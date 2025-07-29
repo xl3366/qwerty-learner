@@ -1,1 +1,596 @@
-[]
+[
+    {
+        "name": "das Gefühl",
+        "trans": [
+            "感觉，感情，感受"
+        ]
+    },
+    {
+        "name": "der/die Fremde",
+        "trans": [
+            "陌生人"
+        ]
+    },
+    {
+        "name": "das Ehepaar",
+        "trans": [
+            "夫妻"
+        ]
+    },
+    {
+        "name": "die Distanz",
+        "trans": [
+            "距离"
+        ]
+    },
+    {
+        "name": "der Abstand",
+        "trans": [
+            "间隔，距离"
+        ]
+    },
+    {
+        "name": "der Meter",
+        "trans": [
+            "米"
+        ]
+    },
+    {
+        "name": "der Zentimeter",
+        "trans": [
+            "厘米"
+        ]
+    },
+    {
+        "name": "das Familienmitglied",
+        "trans": [
+            "家庭成员"
+        ]
+    },
+    {
+        "name": "der Körperkontakt",
+        "trans": [
+            "肢体接触"
+        ]
+    },
+    {
+        "name": "die Regel",
+        "trans": [
+            "规则"
+        ]
+    },
+    {
+        "name": "das Schulfach",
+        "trans": [
+            "课程"
+        ]
+    },
+    {
+        "name": "der Film",
+        "trans": [
+            "电影"
+        ]
+    },
+    {
+        "name": "die Antwort",
+        "trans": [
+            "答案"
+        ]
+    },
+    {
+        "name": "das Gesundheitssystem",
+        "trans": [
+            "医疗卫生体系"
+        ]
+    },
+    {
+        "name": "das Team",
+        "trans": [
+            "团队"
+        ]
+    },
+    {
+        "name": "der Forscher",
+        "trans": [
+            "研究员"
+        ]
+    },
+    {
+        "name": "die Forscherin",
+        "trans": [
+            "女研究员"
+        ]
+    },
+    {
+        "name": "der Urlaub",
+        "trans": [
+            "假期，假日，休假"
+        ]
+    },
+    {
+        "name": "die Landsleute",
+        "trans": [
+            "同乡，同胞"
+        ]
+    },
+    {
+        "name": "die Prüfung",
+        "trans": [
+            "考试"
+        ]
+    },
+    {
+        "name": "der Werkzeugmechaniker",
+        "trans": [
+            "工具机械师"
+        ]
+    },
+    {
+        "name": "die Werkzeugmechanikerin",
+        "trans": [
+            "女工具机械师"
+        ]
+    },
+    {
+        "name": "der Raucher",
+        "trans": [
+            "抽烟者"
+        ]
+    },
+    {
+        "name": "die Raucherin",
+        "trans": [
+            "抽烟的女人"
+        ]
+    },
+    {
+        "name": "der Nichtraucher",
+        "trans": [
+            "不抽烟者"
+        ]
+    },
+    {
+        "name": "die Nichtraucherin",
+        "trans": [
+            "不抽烟的女人"
+        ]
+    },
+    {
+        "name": "das Haustier",
+        "trans": [
+            "宠物"
+        ]
+    },
+    {
+        "name": "das Gesicht",
+        "trans": [
+            "脸，面孔"
+        ]
+    },
+    {
+        "name": "das Haar",
+        "trans": [
+            "头发"
+        ]
+    },
+    {
+        "name": "das Auge",
+        "trans": [
+            "眼睛"
+        ]
+    },
+    {
+        "name": "das Ohr",
+        "trans": [
+            "耳朵"
+        ]
+    },
+    {
+        "name": "die Nase",
+        "trans": [
+            "鼻子"
+        ]
+    },
+    {
+        "name": "der Mund",
+        "trans": [
+            "嘴巴"
+        ]
+    },
+    {
+        "name": "der Zahn",
+        "trans": [
+            "牙齿"
+        ]
+    },
+    {
+        "name": "die Figur",
+        "trans": [
+            "身材，体型"
+        ]
+    },
+    {
+        "name": "das Lachen",
+        "trans": [
+            "笑"
+        ]
+    },
+    {
+        "name": "das Lächeln",
+        "trans": [
+            "微笑"
+        ]
+    },
+    {
+        "name": "der Arm",
+        "trans": [
+            "手臂"
+        ]
+    },
+    {
+        "name": "das Bein",
+        "trans": [
+            "腿"
+        ]
+    },
+    {
+        "name": "der Fuß",
+        "trans": [
+            "脚"
+        ]
+    },
+    {
+        "name": "die Hand",
+        "trans": [
+            "手"
+        ]
+    },
+    {
+        "name": "die Anzeige",
+        "trans": [
+            "广告"
+        ]
+    },
+    {
+        "name": "die Kontaktanzeige",
+        "trans": [
+            "交友广告，个人专栏"
+        ]
+    },
+    {
+        "name": "das Autorennen",
+        "trans": [
+            "汽车赛"
+        ]
+    },
+    {
+        "name": "das Erkennungszeichen",
+        "trans": [
+            "（约定的）识别记号"
+        ]
+    },
+    {
+        "name": "die Rose",
+        "trans": [
+            "玫瑰花"
+        ]
+    },
+    {
+        "name": "das Privatleben",
+        "trans": [
+            "私生活"
+        ]
+    },
+    {
+        "name": "die Situation",
+        "trans": [
+            "形势，位置，处境"
+        ]
+    },
+    {
+        "name": "umarmen",
+        "trans": [
+            "拥抱，搂抱"
+        ]
+    },
+    {
+        "name": "ausmachen",
+        "trans": [
+            "是要紧的；关闭；约定"
+        ]
+    },
+    {
+        "name": "gehören",
+        "trans": [
+            "属于，从属，归属"
+        ]
+    },
+    {
+        "name": "halten",
+        "trans": [
+            "保持；拿着；遵守"
+        ]
+    },
+    {
+        "name": "vertrauen",
+        "trans": [
+            "信任"
+        ]
+    },
+    {
+        "name": "nahekommen",
+        "trans": [
+            "靠近，亲近"
+        ]
+    },
+    {
+        "name": "ansprechen",
+        "trans": [
+            "招呼；同…攀谈"
+        ]
+    },
+    {
+        "name": "filmen",
+        "trans": [
+            "拍摄"
+        ]
+    },
+    {
+        "name": "malen",
+        "trans": [
+            "画"
+        ]
+    },
+    {
+        "name": "entstehen",
+        "trans": [
+            "发生，出现"
+        ]
+    },
+    {
+        "name": "aufschreiben",
+        "trans": [
+            "写下，记下"
+        ]
+    },
+    {
+        "name": "gestalten",
+        "trans": [
+            "塑造；制定，安排"
+        ]
+    },
+    {
+        "name": "erkennen",
+        "trans": [
+            "辨别，认出"
+        ]
+    },
+    {
+        "name": "einsteigen",
+        "trans": [
+            "上车，进入"
+        ]
+    },
+    {
+        "name": "sich schämen",
+        "trans": [
+            "感到羞愧，难为情"
+        ]
+    },
+    {
+        "name": "sich verhalten",
+        "trans": [
+            "采取…态度，表现，举止"
+        ]
+    },
+    {
+        "name": "sich freuen",
+        "trans": [
+            "感到高兴，感到愉快"
+        ]
+    },
+    {
+        "name": "sich ärgern",
+        "trans": [
+            "感到生气"
+        ]
+    },
+    {
+        "name": "sich benehmen",
+        "trans": [
+            "举止，行为"
+        ]
+    },
+    {
+        "name": "sich wohlfühlen",
+        "trans": [
+            "感觉很好"
+        ]
+    },
+    {
+        "name": "sich bedanken",
+        "trans": [
+            "感谢，道谢"
+        ]
+    },
+    {
+        "name": "sich beeilen",
+        "trans": [
+            "赶紧，急忙"
+        ]
+    },
+    {
+        "name": "sich kennenlernen",
+        "trans": [
+            "认识"
+        ]
+    },
+    {
+        "name": "sich fühlen",
+        "trans": [
+            "感到，觉得"
+        ]
+    },
+    {
+        "name": "sich unterhalten",
+        "trans": [
+            "聊天，谈话"
+        ]
+    },
+    {
+        "name": "sich treffen",
+        "trans": [
+            "见面"
+        ]
+    },
+    {
+        "name": "peinlich",
+        "trans": [
+            "尴尬的"
+        ]
+    },
+    {
+        "name": "angenehm",
+        "trans": [
+            "舒适的，愉快的"
+        ]
+    },
+    {
+        "name": "unangenehm",
+        "trans": [
+            "不愉快的，不舒适的"
+        ]
+    },
+    {
+        "name": "speziell",
+        "trans": [
+            "特别的，专门的"
+        ]
+    },
+    {
+        "name": "britisch",
+        "trans": [
+            "英国的"
+        ]
+    },
+    {
+        "name": "sauer",
+        "trans": [
+            "生气的"
+        ]
+    },
+    {
+        "name": "schlank",
+        "trans": [
+            "苗条的"
+        ]
+    },
+    {
+        "name": "ehrlich",
+        "trans": [
+            "诚实的，真实的"
+        ]
+    },
+    {
+        "name": "fern",
+        "trans": [
+            "遥远的"
+        ]
+    },
+    {
+        "name": "unsicher",
+        "trans": [
+            "心里不踏实的，不确定的"
+        ]
+    },
+    {
+        "name": "unbekannt",
+        "trans": [
+            "不认识的，不熟悉、不出名的"
+        ]
+    },
+    {
+        "name": "verliebt",
+        "trans": [
+            "爱上的，恋爱的"
+        ]
+    },
+    {
+        "name": "intellektuell",
+        "trans": [
+            "有智力的，智商高的"
+        ]
+    },
+    {
+        "name": "professionell",
+        "trans": [
+            "专业的，职业的"
+        ]
+    },
+    {
+        "name": "witzig",
+        "trans": [
+            "有趣的，滑稽的，诙谐的"
+        ]
+    },
+    {
+        "name": "modisch",
+        "trans": [
+            "时髦的，流行的"
+        ]
+    },
+    {
+        "name": "nervös",
+        "trans": [
+            "紧张不安的，神经质的，烦躁的"
+        ]
+    },
+    {
+        "name": "dick",
+        "trans": [
+            "胖的，稠的，厚的"
+        ]
+    },
+    {
+        "name": "irgendetwas",
+        "trans": [
+            "随便什么，某些东西"
+        ]
+    },
+    {
+        "name": "wahrscheinlich",
+        "trans": [
+            "可能，大概"
+        ]
+    },
+    {
+        "name": "miteinander",
+        "trans": [
+            "互相，共同，一道"
+        ]
+    },
+    {
+        "name": "ziemlich",
+        "trans": [
+            "相当，几乎，差不多"
+        ]
+    },
+    {
+        "name": "neulich",
+        "trans": [
+            "不久，最近"
+        ]
+    },
+    {
+        "name": "mindestens",
+        "trans": [
+            "至少"
+        ]
+    },
+    {
+        "name": "online",
+        "trans": [
+            "在线"
+        ]
+    }
+]
