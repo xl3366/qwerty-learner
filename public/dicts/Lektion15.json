@@ -1,1 +1,692 @@
-[]
+[
+    {
+        "name": "das Spiel",
+        "trans": [
+            "游戏，比赛"
+        ]
+    },
+    {
+        "name": "der Sportler",
+        "trans": [
+            "运动员"
+        ]
+    },
+    {
+        "name": "die Sportlerin",
+        "trans": [
+            "女运动员"
+        ]
+    },
+    {
+        "name": "das Publikum",
+        "trans": [
+            "观众"
+        ]
+    },
+    {
+        "name": "der Preis",
+        "trans": [
+            "奖，奖金"
+        ]
+    },
+    {
+        "name": "der Skiläufer",
+        "trans": [
+            "滑雪运动员"
+        ]
+    },
+    {
+        "name": "die Skiläuferin",
+        "trans": [
+            "女滑雪运动员"
+        ]
+    },
+    {
+        "name": "der Sieg",
+        "trans": [
+            "胜利，获胜"
+        ]
+    },
+    {
+        "name": "der Weltmeister",
+        "trans": [
+            "世界冠军"
+        ]
+    },
+    {
+        "name": "die Weltmeisterin",
+        "trans": [
+            "女子世界冠军"
+        ]
+    },
+    {
+        "name": "der Titel",
+        "trans": [
+            "头衔"
+        ]
+    },
+    {
+        "name": "die Karriere",
+        "trans": [
+            "事业"
+        ]
+    },
+    {
+        "name": "der Spieler",
+        "trans": [
+            "比赛者，游戏者"
+        ]
+    },
+    {
+        "name": "die Spielerin",
+        "trans": [
+            "女比赛者，女游戏者"
+        ]
+    },
+    {
+        "name": "die Olympiade/Olympischen Spiele",
+        "trans": [
+            "奥运会"
+        ]
+    },
+    {
+        "name": "die Nummer",
+        "trans": [
+            "号码"
+        ]
+    },
+    {
+        "name": "die Liste",
+        "trans": [
+            "列表，名单"
+        ]
+    },
+    {
+        "name": "der Fußballer",
+        "trans": [
+            "足球运动员"
+        ]
+    },
+    {
+        "name": "die Fußballerin",
+        "trans": [
+            "女足运动员"
+        ]
+    },
+    {
+        "name": "der Nationalspieler",
+        "trans": [
+            "国家运动员"
+        ]
+    },
+    {
+        "name": "die Nationalspielerin",
+        "trans": [
+            "女国家运动员"
+        ]
+    },
+    {
+        "name": "der Profi",
+        "trans": [
+            "职业运动员"
+        ]
+    },
+    {
+        "name": "die Medaille",
+        "trans": [
+            "奖牌，奖章"
+        ]
+    },
+    {
+        "name": "der Abschluss",
+        "trans": [
+            "结束"
+        ]
+    },
+    {
+        "name": "der Tagesablauf",
+        "trans": [
+            "日程"
+        ]
+    },
+    {
+        "name": "die Sportart",
+        "trans": [
+            "体育运动项目"
+        ]
+    },
+    {
+        "name": "der Basketball",
+        "trans": [
+            "篮球"
+        ]
+    },
+    {
+        "name": "der Volleyball",
+        "trans": [
+            "排球"
+        ]
+    },
+    {
+        "name": "die Mannschaft",
+        "trans": [
+            "（运动）队"
+        ]
+    },
+    {
+        "name": "die Gruppe",
+        "trans": [
+            "组；团体"
+        ]
+    },
+    {
+        "name": "der Junge",
+        "trans": [
+            "男孩，少年"
+        ]
+    },
+    {
+        "name": "das Mädchen",
+        "trans": [
+            "女孩，少女"
+        ]
+    },
+    {
+        "name": "der Trainer",
+        "trans": [
+            "教练"
+        ]
+    },
+    {
+        "name": "die Trainerin",
+        "trans": [
+            "女教练"
+        ]
+    },
+    {
+        "name": "der Läufer",
+        "trans": [
+            "跑（步）者"
+        ]
+    },
+    {
+        "name": "die Läuferin",
+        "trans": [
+            "女跑者"
+        ]
+    },
+    {
+        "name": "der Tänzer",
+        "trans": [
+            "舞者"
+        ]
+    },
+    {
+        "name": "die Tänzerin",
+        "trans": [
+            "女舞者"
+        ]
+    },
+    {
+        "name": "der Boxer",
+        "trans": [
+            "拳击运动员"
+        ]
+    },
+    {
+        "name": "die Boxerin",
+        "trans": [
+            "女拳击运动员"
+        ]
+    },
+    {
+        "name": "das Tor",
+        "trans": [
+            "大门"
+        ]
+    },
+    {
+        "name": "der Torwart",
+        "trans": [
+            "守门员"
+        ]
+    },
+    {
+        "name": "die Torwartin",
+        "trans": [
+            "女守门员"
+        ]
+    },
+    {
+        "name": "der/das Kaugummi",
+        "trans": [
+            "口香糖"
+        ]
+    },
+    {
+        "name": "der Sportmuffel",
+        "trans": [
+            "不喜欢运动的人"
+        ]
+    },
+    {
+        "name": "der Chor",
+        "trans": [
+            "合唱团"
+        ]
+    },
+    {
+        "name": "das Team",
+        "trans": [
+            "团队"
+        ]
+    },
+    {
+        "name": "der Spielplan",
+        "trans": [
+            "游戏设计"
+        ]
+    },
+    {
+        "name": "die Spielfigur",
+        "trans": [
+            "棋子"
+        ]
+    },
+    {
+        "name": "der Würfel",
+        "trans": [
+            "骰子"
+        ]
+    },
+    {
+        "name": "die Spielkarte",
+        "trans": [
+            "游戏卡片，牌"
+        ]
+    },
+    {
+        "name": "der Start",
+        "trans": [
+            "开始"
+        ]
+    },
+    {
+        "name": "das Spielfeld",
+        "trans": [
+            "场地；运动场"
+        ]
+    },
+    {
+        "name": "die Zeichnung",
+        "trans": [
+            "画，图纸"
+        ]
+    },
+    {
+        "name": "das Element",
+        "trans": [
+            "要素"
+        ]
+    },
+    {
+        "name": "das Gegenteil",
+        "trans": [
+            "相反（的东西）"
+        ]
+    },
+    {
+        "name": "der Täter",
+        "trans": [
+            "作案人"
+        ]
+    },
+    {
+        "name": "die Täterin",
+        "trans": [
+            "女作案人"
+        ]
+    },
+    {
+        "name": "das Opfer",
+        "trans": [
+            "牺牲，受害者"
+        ]
+    },
+    {
+        "name": "die Erklärung",
+        "trans": [
+            "说明"
+        ]
+    },
+    {
+        "name": "die Spannung",
+        "trans": [
+            "紧张，刺激"
+        ]
+    },
+    {
+        "name": "der Frust",
+        "trans": [
+            "失望"
+        ]
+    },
+    {
+        "name": "die Sorge",
+        "trans": [
+            "忧虑，担心"
+        ]
+    },
+    {
+        "name": "das Gedicht",
+        "trans": [
+            "诗，诗歌"
+        ]
+    },
+    {
+        "name": "die Strophe",
+        "trans": [
+            "诗的）节，段"
+        ]
+    },
+    {
+        "name": "wählen",
+        "trans": [
+            "选择"
+        ]
+    },
+    {
+        "name": "beenden",
+        "trans": [
+            "结束"
+        ]
+    },
+    {
+        "name": "gewinnen",
+        "trans": [
+            "赢得，获胜"
+        ]
+    },
+    {
+        "name": "sich freuen über",
+        "trans": [
+            "对…感到高兴"
+        ]
+    },
+    {
+        "name": "sich interessieren für",
+        "trans": [
+            "对…感兴趣"
+        ]
+    },
+    {
+        "name": "rennen",
+        "trans": [
+            "奔跑"
+        ]
+    },
+    {
+        "name": "boxen",
+        "trans": [
+            "拳击"
+        ]
+    },
+    {
+        "name": "turnen",
+        "trans": [
+            "做体操"
+        ]
+    },
+    {
+        "name": "sollen",
+        "trans": [
+            "应该"
+        ]
+    },
+    {
+        "name": "schießen",
+        "trans": [
+            "射击"
+        ]
+    },
+    {
+        "name": "zubinden",
+        "trans": [
+            "扎紧，系住"
+        ]
+    },
+    {
+        "name": "sich aufwärmen",
+        "trans": [
+            "暖和，热身"
+        ]
+    },
+    {
+        "name": "sich duschen",
+        "trans": [
+            "冲澡，淋浴"
+        ]
+    },
+    {
+        "name": "sich anziehen",
+        "trans": [
+            "穿上"
+        ]
+    },
+    {
+        "name": "atmen",
+        "trans": [
+            "呼吸"
+        ]
+    },
+    {
+        "name": "mischen",
+        "trans": [
+            "混合"
+        ]
+    },
+    {
+        "name": "würfeln",
+        "trans": [
+            "掷骰子"
+        ]
+    },
+    {
+        "name": "raten",
+        "trans": [
+            "猜测"
+        ]
+    },
+    {
+        "name": "nennen",
+        "trans": [
+            "说出"
+        ]
+    },
+    {
+        "name": "erreichen",
+        "trans": [
+            "实现，达到"
+        ]
+    },
+    {
+        "name": "anfassen",
+        "trans": [
+            "处理，对付"
+        ]
+    },
+    {
+        "name": "beweisen",
+        "trans": [
+            "证明"
+        ]
+    },
+    {
+        "name": "garantieren",
+        "trans": [
+            "保证"
+        ]
+    },
+    {
+        "name": "verlieren",
+        "trans": [
+            "输掉，失败"
+        ]
+    },
+    {
+        "name": "erfolgreich",
+        "trans": [
+            "成功的"
+        ]
+    },
+    {
+        "name": "häufig",
+        "trans": [
+            "经常的"
+        ]
+    },
+    {
+        "name": "olympisch",
+        "trans": [
+            "奥林匹克的"
+        ]
+    },
+    {
+        "name": "unvergesslich",
+        "trans": [
+            "难忘的"
+        ]
+    },
+    {
+        "name": "klar",
+        "trans": [
+            "清楚的，明确的"
+        ]
+    },
+    {
+        "name": "musikalisch",
+        "trans": [
+            "有音乐才能的"
+        ]
+    },
+    {
+        "name": "begeistert",
+        "trans": [
+            "热衷于…的"
+        ]
+    },
+    {
+        "name": "begabt",
+        "trans": [
+            "有天赋的"
+        ]
+    },
+    {
+        "name": "sicher",
+        "trans": [
+            "可靠的，信任的"
+        ]
+    },
+    {
+        "name": "empfehlenswert",
+        "trans": [
+            "值得推荐的"
+        ]
+    },
+    {
+        "name": "aktiv",
+        "trans": [
+            "活跃的，积极的"
+        ]
+    },
+    {
+        "name": "grafisch",
+        "trans": [
+            "图表的"
+        ]
+    },
+    {
+        "name": "wunderschön",
+        "trans": [
+            "极美的"
+        ]
+    },
+    {
+        "name": "ideal",
+        "trans": [
+            "理想的"
+        ]
+    },
+    {
+        "name": "unmöglich",
+        "trans": [
+            "不可能的"
+        ]
+    },
+    {
+        "name": "bestimmt",
+        "trans": [
+            "一定的，确定的"
+        ]
+    },
+    {
+        "name": "das erste Mal",
+        "trans": [
+            "第一次"
+        ]
+    },
+    {
+        "name": "das zweite Mal",
+        "trans": [
+            "第二次"
+        ]
+    },
+    {
+        "name": "einmal",
+        "trans": [
+            "一次"
+        ]
+    },
+    {
+        "name": "zweimal",
+        "trans": [
+            "两次"
+        ]
+    },
+    {
+        "name": "keine/keiner",
+        "trans": [
+            "没有"
+        ]
+    },
+    {
+        "name": "jeder(mann)",
+        "trans": [
+            "每人"
+        ]
+    },
+    {
+        "name": "genauso (wie)",
+        "trans": [
+            "（和…）完全一样"
+        ]
+    },
+    {
+        "name": "wenn",
+        "trans": [
+            "如果；当…时候"
+        ]
+    },
+    {
+        "name": "vorbei",
+        "trans": [
+            "经过"
+        ]
+    },
+    {
+        "name": "draußen",
+        "trans": [
+            "在外面"
+        ]
+    }
+]
