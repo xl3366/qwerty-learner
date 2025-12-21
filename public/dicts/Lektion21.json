@@ -1,0 +1,614 @@
+[
+    {
+        "name": "die Tätigkeit, -en",
+        "trans": [
+            "活动,工作"
+        ]
+    },
+    {
+        "name": "der Bereich, -e",
+        "trans": [
+            "范围,领域"
+        ]
+    },
+    {
+        "name": "der/die Angestellte, -n",
+        "trans": [
+            "(女)职员"
+        ]
+    },
+    {
+        "name": "die Arbeitskraft, -\"e",
+        "trans": [
+            "劳动力,人力"
+        ]
+    },
+    {
+        "name": "der Arzt, -\"e",
+        "trans": [
+            "医生"
+        ]
+    },
+    {
+        "name": "die Ärztin, -nen",
+        "trans": [
+            "医生(女)"
+        ]
+    },
+    {
+        "name": "der Pfleger, -",
+        "trans": [
+            "护理人员"
+        ]
+    },
+    {
+        "name": "der Erzieher, -",
+        "trans": [
+            "教育工作者,保育员"
+        ]
+    },
+    {
+        "name": "der Busfahrer, -",
+        "trans": [
+            "巴士司机"
+        ]
+    },
+    {
+        "name": "der Kellner, -",
+        "trans": [
+            "服务员,侍者"
+        ]
+    },
+    {
+        "name": "der Ingenieur, -e",
+        "trans": [
+            "工程师"
+        ]
+    },
+    {
+        "name": "der Müllmann, -\"er",
+        "trans": [
+            "垃圾清运工"
+        ]
+    },
+    {
+        "name": "die Müllfrau, -en",
+        "trans": [
+            "垃圾清运工(女)"
+        ]
+    },
+    {
+        "name": "der Schreiner, -",
+        "trans": [
+            "木工"
+        ]
+    },
+    {
+        "name": "der Apotheker, -",
+        "trans": [
+            "药剂师"
+        ]
+    },
+    {
+        "name": "die Berufsqualifikation, -en",
+        "trans": [
+            "职业资格"
+        ]
+    },
+    {
+        "name": "die Umgangsform, -en",
+        "trans": [
+            "礼貌,社交礼节"
+        ]
+    },
+    {
+        "name": "die Aggression, -en",
+        "trans": [
+            "敌对态度(或行为)"
+        ]
+    },
+    {
+        "name": "der Fehler, -",
+        "trans": [
+            "错误"
+        ]
+    },
+    {
+        "name": "die Schicht, -en",
+        "trans": [
+            "(工作)班"
+        ]
+    },
+    {
+        "name": "die Wahl, -en",
+        "trans": [
+            "选择"
+        ]
+    },
+    {
+        "name": "die Aufgabe, -n",
+        "trans": [
+            "任务"
+        ]
+    },
+    {
+        "name": "die (Müll-)Tonne, -n",
+        "trans": [
+            "垃圾桶"
+        ]
+    },
+    {
+        "name": "der Hof, -ö-e",
+        "trans": [
+            "院子"
+        ]
+    },
+    {
+        "name": "der Dreck (nur Sg.)",
+        "trans": [
+            "垃圾,污物"
+        ]
+    },
+    {
+        "name": "die Müllabfuhr (nur Sg.)",
+        "trans": [
+            "清运垃圾"
+        ]
+    },
+    {
+        "name": "der Clown, -s",
+        "trans": [
+            "小丑"
+        ]
+    },
+    {
+        "name": "die Clownin, -nen",
+        "trans": [
+            "小丑(女)"
+        ]
+    },
+    {
+        "name": "die Leitung, -en",
+        "trans": [
+            "领导"
+        ]
+    },
+    {
+        "name": "die Klinik, -en",
+        "trans": [
+            "医院,诊所"
+        ]
+    },
+    {
+        "name": "das Pflegeheim, -e",
+        "trans": [
+            "护养院，养老院"
+        ]
+    },
+    {
+        "name": "das Stofftier, -e",
+        "trans": [
+            "毛绒动物玩具"
+        ]
+    },
+    {
+        "name": "der Luftballon, -s",
+        "trans": [
+            "气球"
+        ]
+    },
+    {
+        "name": "der Quadratmeter, -",
+        "trans": [
+            "平方米"
+        ]
+    },
+    {
+        "name": "das Holz, -ö-er",
+        "trans": [
+            "木材(仅单数);木料"
+        ]
+    },
+    {
+        "name": "das Rad, -ä-er",
+        "trans": [
+            "轮子"
+        ]
+    },
+    {
+        "name": "das Dach, -ä-er",
+        "trans": [
+            "屋顶"
+        ]
+    },
+    {
+        "name": "der Öfen, -ö",
+        "trans": [
+            "炉子"
+        ]
+    },
+    {
+        "name": "der Schirm, -e",
+        "trans": [
+            "伞"
+        ]
+    },
+    {
+        "name": "die Wärmflasche, -n",
+        "trans": [
+            "热水袋"
+        ]
+    },
+    {
+        "name": "das Handtuch, -ü-er",
+        "trans": [
+            "毛巾"
+        ]
+    },
+    {
+        "name": "die Taschenlampe, -n",
+        "trans": [
+            "手电筒"
+        ]
+    },
+    {
+        "name": "die Batterie, -n",
+        "trans": [
+            "电池"
+        ]
+    },
+    {
+        "name": "das Feuerzeug, -e",
+        "trans": [
+            "打火机"
+        ]
+    },
+    {
+        "name": "das Pflaster, -",
+        "trans": [
+            "创可贴"
+        ]
+    },
+    {
+        "name": "der Kochlöffel, -",
+        "trans": [
+            "烹饪木勺"
+        ]
+    },
+    {
+        "name": "das Fernglas, -ä-er",
+        "trans": [
+            "望远镜"
+        ]
+    },
+    {
+        "name": "das Argument, -e",
+        "trans": [
+            "论据,理由"
+        ]
+    },
+    {
+        "name": "der Vorhang, -ä-e",
+        "trans": [
+            "窗帘"
+        ]
+    },
+    {
+        "name": "das Muster, -",
+        "trans": [
+            "花样,图案"
+        ]
+    },
+    {
+        "name": "der Keller, -",
+        "trans": [
+            "地下室"
+        ]
+    },
+    {
+        "name": "der Inhalt, -e",
+        "trans": [
+            "内容"
+        ]
+    },
+    {
+        "name": "der Frieden (nur Sg.)",
+        "trans": [
+            "和平"
+        ]
+    },
+    {
+        "name": "das Wachs (nur Sg.)",
+        "trans": [
+            "蜡"
+        ]
+    },
+    {
+        "name": "der Gesang, -ä-e",
+        "trans": [
+            "歌唱"
+        ]
+    },
+    {
+        "name": "da sein für",
+        "trans": [
+            "在那里(为了…)"
+        ]
+    },
+    {
+        "name": "in Not sein",
+        "trans": [
+            "处于困境"
+        ]
+    },
+    {
+        "name": "im Dienst sein",
+        "trans": [
+            "在工作中"
+        ]
+    },
+    {
+        "name": "sich begeistern für",
+        "trans": [
+            "对…感到兴奋"
+        ]
+    },
+    {
+        "name": "nützen",
+        "trans": [
+            "使用"
+        ]
+    },
+    {
+        "name": "umgehen mit",
+        "trans": [
+            "处理,对待"
+        ]
+    },
+    {
+        "name": "sich verlassen auf",
+        "trans": [
+            "信任"
+        ]
+    },
+    {
+        "name": "sich konzentrieren",
+        "trans": [
+            "集中注意力"
+        ]
+    },
+    {
+        "name": "zählen",
+        "trans": [
+            "点数,计数"
+        ]
+    },
+    {
+        "name": "beantworten",
+        "trans": [
+            "回答"
+        ]
+    },
+    {
+        "name": "erwarten",
+        "trans": [
+            "期待"
+        ]
+    },
+    {
+        "name": "um Rat fragen",
+        "trans": [
+            "征求意见"
+        ]
+    },
+    {
+        "name": "sich kümmern um",
+        "trans": [
+            "照顾"
+        ]
+    },
+    {
+        "name": "wiegen",
+        "trans": [
+            "重量为…"
+        ]
+    },
+    {
+        "name": "stinken",
+        "trans": [
+            "发出臭味"
+        ]
+    },
+    {
+        "name": "ersticken",
+        "trans": [
+            "窒息"
+        ]
+    },
+    {
+        "name": "meckern",
+        "trans": [
+            "发牢骚"
+        ]
+    },
+    {
+        "name": "klopfen",
+        "trans": [
+            "敲"
+        ]
+    },
+    {
+        "name": "sich nähern",
+        "trans": [
+            "接近"
+        ]
+    },
+    {
+        "name": "eine Beziehung aufbauen",
+        "trans": [
+            "建立关系"
+        ]
+    },
+    {
+        "name": "heizen",
+        "trans": [
+            "加热"
+        ]
+    },
+    {
+        "name": "verreisen",
+        "trans": [
+            "外出旅行"
+        ]
+    },
+    {
+        "name": "vermieten",
+        "trans": [
+            "出租"
+        ]
+    },
+    {
+        "name": "beobachten",
+        "trans": [
+            "观察"
+        ]
+    },
+    {
+        "name": "herausfinden",
+        "trans": [
+            "找出来,发现"
+        ]
+    },
+    {
+        "name": "überzeugen",
+        "trans": [
+            "说服"
+        ]
+    },
+    {
+        "name": "überlegen",
+        "trans": [
+            "考虑"
+        ]
+    },
+    {
+        "name": "gründen",
+        "trans": [
+            "建立关系"
+        ]
+    },
+    {
+        "name": "töten",
+        "trans": [
+            "杀死"
+        ]
+    },
+    {
+        "name": "stecken",
+        "trans": [
+            "插入,塞"
+        ]
+    },
+    {
+        "name": "rudern",
+        "trans": [
+            "划船"
+        ]
+    },
+    {
+        "name": "fesseln",
+        "trans": [
+            "捆住,绑住"
+        ]
+    },
+    {
+        "name": "überleben",
+        "trans": [
+            "幸存"
+        ]
+    },
+    {
+        "name": "gefragt",
+        "trans": [
+            "受欢迎的"
+        ]
+    },
+    {
+        "name": "dankbar",
+        "trans": [
+            "感谢的"
+        ]
+    },
+    {
+        "name": "gepflegt",
+        "trans": [
+            "保养得好的"
+        ]
+    },
+    {
+        "name": "aggressiv",
+        "trans": [
+            "好争吵的,攻击性的"
+        ]
+    },
+    {
+        "name": "sensibel",
+        "trans": [
+            "敏感的"
+        ]
+    },
+    {
+        "name": "kräftig",
+        "trans": [
+            "有力的"
+        ]
+    },
+    {
+        "name": "passiv",
+        "trans": [
+            "消极的,被动的"
+        ]
+    },
+    {
+        "name": "unterschiedlich",
+        "trans": [
+            "不同的"
+        ]
+    },
+    {
+        "name": "passend",
+        "trans": [
+            "合适的"
+        ]
+    },
+    {
+        "name": "lateinisch",
+        "trans": [
+            "拉丁语(族)的"
+        ]
+    },
+    {
+        "name": "griechisch",
+        "trans": [
+            "希腊的"
+        ]
+    },
+    {
+        "name": "windstill",
+        "trans": [
+            "无风的"
+        ]
+    },
+    {
+        "name": "überhaupt",
+        "trans": [
+            "根本;总之"
+        ]
+    },
+    {
+        "name": "kaum",
+        "trans": [
+            "几乎不"
+        ]
+    }
+]

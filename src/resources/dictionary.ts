@@ -262,7 +262,119 @@ const germanExam: DictionaryResource[] = [
     "length": 0,
     "language": "de",
     "languageCategory": "de"
+  },
+  [
+  {
+    "id": "lektion21",
+    "name": "Daf Leicht",
+    "description": "Lektion21",
+    "category": "德语学习",
+    "tags": ["B1"],
+    "url": "/dicts/Lektion21.json",
+    "length": 0,
+    "language": "de",
+    "languageCategory": "de"
+  },
+  {
+    "id": "lektion22",
+    "name": "Daf Leicht",
+    "description": "Lektion22",
+    "category": "德语学习",
+    "tags": ["B1"],
+    "url": "/dicts/Lektion22.json",
+    "length": 0,
+    "language": "de",
+    "languageCategory": "de"
+  },
+  {
+    "id": "lektion23",
+    "name": "Daf Leicht",
+    "description": "Lektion23",
+    "category": "德语学习",
+    "tags": ["B1"],
+    "url": "/dicts/Lektion23.json",
+    "length": 0,
+    "language": "de",
+    "languageCategory": "de"
+  },
+  {
+    "id": "lektion24",
+    "name": "Daf Leicht",
+    "description": "Lektion24",
+    "category": "德语学习",
+    "tags": ["B1"],
+    "url": "/dicts/Lektion24.json",
+    "length": 0,
+    "language": "de",
+    "languageCategory": "de"
+  },
+  {
+    "id": "lektion25",
+    "name": "Daf Leicht",
+    "description": "Lektion25",
+    "category": "德语学习",
+    "tags": ["B1"],
+    "url": "/dicts/Lektion25.json",
+    "length": 0,
+    "language": "de",
+    "languageCategory": "de"
+  },
+  {
+    "id": "lektion26",
+    "name": "Daf Leicht",
+    "description": "Lektion26",
+    "category": "德语学习",
+    "tags": ["B1"],
+    "url": "/dicts/Lektion26.json",
+    "length": 0,
+    "language": "de",
+    "languageCategory": "de"
+  },
+  {
+    "id": "lektion27",
+    "name": "Daf Leicht",
+    "description": "Lektion27",
+    "category": "德语学习",
+    "tags": ["B1"],
+    "url": "/dicts/Lektion27.json",
+    "length": 0,
+    "language": "de",
+    "languageCategory": "de"
+  },
+  {
+    "id": "lektion28",
+    "name": "Daf Leicht",
+    "description": "Lektion28",
+    "category": "德语学习",
+    "tags": ["B1"],
+    "url": "/dicts/Lektion28.json",
+    "length": 0,
+    "language": "de",
+    "languageCategory": "de"
+  },
+  {
+    "id": "lektion29",
+    "name": "Daf Leicht",
+    "description": "Lektion29",
+    "category": "德语学习",
+    "tags": ["B1"],
+    "url": "/dicts/Lektion29.json",
+    "length": 0,
+    "language": "de",
+    "languageCategory": "de"
+  },
+  {
+    "id": "lektion30",
+    "name": "Daf Leicht",
+    "description": "Lektion30",
+    "category": "德语学习",
+    "tags": ["B1"],
+    "url": "/dicts/Lektion30.json",
+    "length": 0,
+    "language": "de",
+    "languageCategory": "de"
   }
+]
 ]
 
 
