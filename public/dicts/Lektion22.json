@@ -1,266 +1,483 @@
 [
     {
-        "name": "die Rubrik, -en",
+        "name": "Deutschland",
         "trans": [
-            "(图表、书报等的)栏目,栏"
+            "德国"
         ]
     },
     {
-        "name": "das Ausland (nur Sg.)",
+        "name": "Österreich",
         "trans": [
-            "外国,国外"
+            "奥地利"
         ]
     },
     {
-        "name": "der Heimweg, -e",
+        "name": "die Schweiz",
         "trans": [
-            "归途,回家的路"
+            "瑞士"
         ]
     },
     {
-        "name": "der Strich, -e",
+        "name": "der Name",
         "trans": [
-            "(书写、绘画时)一划,一笔"
+            "姓名"
         ]
     },
     {
-        "name": "die Werkstatt, -ä-en",
+        "name": "der Vorname",
         "trans": [
-            "工作室,车间"
+            "名字"
         ]
     },
     {
-        "name": "der Auftrag, -ä-e",
+        "name": "der Nachname",
         "trans": [
-            "订单,订货"
+            "姓氏"
         ]
     },
     {
-        "name": "der Knopf, -ö-e",
+        "name": "der Kaffee",
         "trans": [
-            "纽扣"
+            "咖啡"
         ]
     },
     {
-        "name": "die Möglichkeit, -en",
+        "name": "der Tee",
         "trans": [
-            "可能性；机会"
+            "茶"
         ]
     },
     {
-        "name": "der Hersteller, -",
+        "name": "die Schokolade",
         "trans": [
-            "生产商,制造商"
+            "巧克力"
         ]
     },
     {
-        "name": "die Herstellerin, -nen",
+        "name": "die Chips",
         "trans": [
-            "生产商(女)"
+            "薯片"
         ]
     },
     {
-        "name": "das Plastik (nur Sg.)",
+        "name": "das Kino",
         "trans": [
-            "塑料"
+            "电影院"
         ]
     },
     {
-        "name": "das Tabu, -s",
+        "name": "das Theater",
         "trans": [
-            "禁忌；忌讳"
+            "剧院，戏剧"
         ]
     },
     {
-        "name": "die Industrie, -n",
+        "name": "der Sport",
         "trans": [
-            "工业"
+            "体育"
         ]
     },
     {
-        "name": "die Freiheit, -en",
+        "name": "die Musik",
         "trans": [
-            "自由(仅单数)；特权,优先权"
+            "音乐"
         ]
     },
     {
-        "name": "die Herstellung (nur Sg.)",
+        "name": "der Fußball",
         "trans": [
-            "生产"
+            "足球"
         ]
     },
     {
-        "name": "die Neuheit, -en",
+        "name": "das Tennis",
         "trans": [
-            "新产品"
+            "网球"
         ]
     },
     {
-        "name": "das Modell, -e",
+        "name": "die Sonne",
         "trans": [
-            "型号,款式"
+            "太阳"
         ]
     },
     {
-        "name": "die Qualität, -en",
+        "name": "der Regen",
         "trans": [
-            "质量"
+            "雨"
         ]
     },
     {
-        "name": "die Krise, -n",
+        "name": "das Telefon",
         "trans": [
-            "危机"
+            "电话"
         ]
     },
     {
-        "name": "die Marke, -n",
+        "name": "die E-Mail",
         "trans": [
-            "品牌"
+            "电子邮件"
         ]
     },
     {
-        "name": "der Unternehmer, -",
+        "name": "die Tasche",
         "trans": [
-            "企业家"
+            "包"
         ]
     },
     {
-        "name": "die Unternehmerin, -nen",
+        "name": "der Stift",
         "trans": [
-            "企业家(女)"
+            "笔"
         ]
     },
     {
-        "name": "dauern",
+        "name": "das Handy",
         "trans": [
-            "持续"
+            "手机"
         ]
     },
     {
-        "name": "entdecken",
+        "name": "das Buch",
         "trans": [
-            "发现"
+            "书"
         ]
     },
     {
-        "name": "einstellen, stellt ein",
+        "name": "der Schlüssel",
         "trans": [
-            "雇佣"
+            "钥匙"
         ]
     },
     {
-        "name": "wiederfinden, findet wieder",
+        "name": "die Flasche",
         "trans": [
-            "再次找到"
+            "瓶子"
         ]
     },
     {
-        "name": "einfallen, fällt ein",
+        "name": "das Portmonee",
         "trans": [
-            "想起,记起"
+            "钱包"
         ]
     },
     {
-        "name": "öffnen",
+        "name": "die Brille",
         "trans": [
-            "为…打开；开放"
+            "眼镜"
         ]
     },
     {
-        "name": "schlagen, schlägt",
+        "name": "der Lippenstift",
         "trans": [
-            "响,鸣"
+            "唇膏，口红"
         ]
     },
     {
-        "name": "retten",
+        "name": "das Foto",
         "trans": [
-            "拯救,挽救"
+            "照片"
         ]
     },
     {
-        "name": "versorgen",
+        "name": "das Heft",
         "trans": [
-            "提供"
+            "练习本"
         ]
     },
     {
-        "name": "besetzen",
+        "name": "das Taschentuch",
         "trans": [
-            "占领"
+            "手帕，纸巾"
         ]
     },
     {
-        "name": "sperren",
+        "name": "die Zigarette",
         "trans": [
-            "封锁"
+            "香烟"
         ]
     },
     {
-        "name": "demonstrieren",
+        "name": "die Zeitung",
         "trans": [
-            "举行示威游行"
+            "报纸"
         ]
     },
     {
-        "name": "beitreten, tritt bei",
+        "name": "der Spiegel",
         "trans": [
-            "加入"
+            "镜子"
         ]
     },
     {
-        "name": "protestieren",
+        "name": "die Zahnbürste",
         "trans": [
-            "抗议,提出异议"
+            "牙刷"
         ]
     },
     {
-        "name": "gratis",
+        "name": "der Mann",
         "trans": [
-            "免费的"
+            "男人，丈夫"
         ]
     },
     {
-        "name": "ewig",
+        "name": "die Frau",
         "trans": [
-            "永远的,永存的"
+            "女人，妻子，女士（称呼），太太（称呼）"
         ]
     },
     {
-        "name": "lustlos",
+        "name": "das Wort",
         "trans": [
-            "无精打采的,勉强的"
+            "词"
         ]
     },
     {
-        "name": "selbstständig",
+        "name": "du",
         "trans": [
-            "独立的,自主的"
+            "你"
         ]
     },
     {
-        "name": "qualitativ",
+        "name": "ich",
         "trans": [
-            "质量的,性能的"
+            "我"
         ]
     },
     {
-        "name": "hochwertig",
+        "name": "er",
         "trans": [
-            "优质的"
+            "他（指第三人称单数阳性名词）"
         ]
     },
     {
-        "name": "elektronisch",
+        "name": "sie",
         "trans": [
-            "电子的"
+            "她（指第三人称单数阴性名词），他们（指第三人称复数）"
         ]
     },
     {
-        "name": "faul",
+        "name": "Sie",
         "trans": [
-            "懒惰的,懒散的"
+            "您，你们（指第二人称尊称或复数）"
+        ]
+    },
+    {
+        "name": "heißen",
+        "trans": [
+            "名叫"
+        ]
+    },
+    {
+        "name": "sein",
+        "trans": [
+            "是"
+        ]
+    },
+    {
+        "name": "schreiben",
+        "trans": [
+            "写"
+        ]
+    },
+    {
+        "name": "gut",
+        "trans": [
+            "好的"
+        ]
+    },
+    {
+        "name": "schön",
+        "trans": [
+            "美丽的，漂亮的"
+        ]
+    },
+    {
+        "name": "Wie",
+        "trans": [
+            "怎么样？"
+        ]
+    },
+    {
+        "name": "Wer",
+        "trans": [
+            "谁？"
+        ]
+    },
+    {
+        "name": "Was",
+        "trans": [
+            "什么？"
+        ]
+    },
+    {
+        "name": "Hallo",
+        "trans": [
+            "你好！"
+        ]
+    },
+    {
+        "name": "Guten Tag",
+        "trans": [
+            "你好！白天好！"
+        ]
+    },
+    {
+        "name": "Guten Morgen",
+        "trans": [
+            "早上好！"
+        ]
+    },
+    {
+        "name": "Guten Abend",
+        "trans": [
+            "晚上好！"
+        ]
+    },
+    {
+        "name": "Gute Nacht",
+        "trans": [
+            "晚安！"
+        ]
+    },
+    {
+        "name": "Mein Name ist",
+        "trans": [
+            "我的名字是…"
+        ]
+    },
+    {
+        "name": "Ich komme aus",
+        "trans": [
+            "我来自…"
+        ]
+    },
+    {
+        "name": "Ich mag",
+        "trans": [
+            "我喜欢…"
+        ]
+    },
+    {
+        "name": "Tschüss",
+        "trans": [
+            "再见！（口语）"
+        ]
+    },
+    {
+        "name": "Auf Wiedersehen",
+        "trans": [
+            "再见！"
+        ]
+    },
+    {
+        "name": "Ciao",
+        "trans": [
+            "再见！（口语）"
+        ]
+    },
+    {
+        "name": "Wie geht es",
+        "trans": [
+            "（你）好吗？过得怎么样？"
+        ]
+    },
+    {
+        "name": "Wie heißt das auf Deutsch",
+        "trans": [
+            "这个用德语怎么说"
+        ]
+    },
+    {
+        "name": "Wie schreibt man das",
+        "trans": [
+            "这个用德语怎么写？"
+        ]
+    },
+    {
+        "name": "Wie bitte",
+        "trans": [
+            "什么？（请再说一遍）"
+        ]
+    },
+    {
+        "name": "Herr Müller",
+        "trans": [
+            "米勒先生"
+        ]
+    },
+    {
+        "name": "Frau Müller",
+        "trans": [
+            "米勒女士，米勒太太"
+        ]
+    },
+    {
+        "name": "Das ist",
+        "trans": [
+            "这是…"
+        ]
+    },
+    {
+        "name": "Noch einmal",
+        "trans": [
+            "bitte",
+            "请再说一遍。"
+        ]
+    },
+    {
+        "name": "danke/danke schön",
+        "trans": [
+            "谢谢/多谢"
+        ]
+    },
+    {
+        "name": "bitte/bitte schön",
+        "trans": [
+            "不客气"
+        ]
+    },
+    {
+        "name": "und",
+        "trans": [
+            "和"
+        ]
+    },
+    {
+        "name": "oder",
+        "trans": [
+            "或"
+        ]
+    },
+    {
+        "name": "ja",
+        "trans": [
+            "是"
+        ]
+    },
+    {
+        "name": "nein",
+        "trans": [
+            "不"
+        ]
+    },
+    {
+        "name": "auch",
+        "trans": [
+            "也"
+        ]
+    },
+    {
+        "name": "da",
+        "trans": [
+            "那里，那时"
+        ]
+    },
+    {
+        "name": "in",
+        "trans": [
+            "在…里面"
         ]
     }
 ]
