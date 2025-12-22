@@ -1,266 +1,614 @@
 [
     {
-        "name": "die Rubrik, -en",
+        "name": "die Tätigkeit, -en",
         "trans": [
-            "(图表、书报等的)栏目,栏"
+            "活动,工作"
         ]
     },
     {
-        "name": "das Ausland (nur Sg.)",
+        "name": "der Bereich, -e",
         "trans": [
-            "外国,国外"
+            "范围,领域"
         ]
     },
     {
-        "name": "der Heimweg, -e",
+        "name": "der/die Angestellte, -n",
         "trans": [
-            "归途,回家的路"
+            "(女)职员"
         ]
     },
     {
-        "name": "der Strich, -e",
+        "name": "die Arbeitskraft, -ä-e",
         "trans": [
-            "(书写、绘画时)一划,一笔"
+            "劳动力,人力"
         ]
     },
     {
-        "name": "die Werkstatt, -ä-en",
+        "name": "der Arzt, -Ä-e",
         "trans": [
-            "工作室,车间"
+            "医生"
         ]
     },
     {
-        "name": "der Auftrag, -ä-e",
+        "name": "die Ärztin, -nen",
         "trans": [
-            "订单,订货"
+            "医生(女)"
         ]
     },
     {
-        "name": "der Knopf, -ö-e",
+        "name": "der Pfleger, -",
         "trans": [
-            "纽扣"
+            "护理人员"
         ]
     },
     {
-        "name": "die Möglichkeit, -en",
+        "name": "der Erzieher, -",
         "trans": [
-            "可能性；机会"
+            "教育工作者,保育员"
         ]
     },
     {
-        "name": "der Hersteller, -",
+        "name": "der Busfahrer, -",
         "trans": [
-            "生产商,制造商"
+            "巴士司机"
         ]
     },
     {
-        "name": "die Herstellerin, -nen",
+        "name": "der Kellner, -",
         "trans": [
-            "生产商(女)"
+            "服务员,侍者"
         ]
     },
     {
-        "name": "das Plastik (nur Sg.)",
+        "name": "der Ingenieur, -e",
         "trans": [
-            "塑料"
+            "工程师"
         ]
     },
     {
-        "name": "das Tabu, -s",
+        "name": "der Müllmann, -ä-er",
         "trans": [
-            "禁忌；忌讳"
+            "垃圾清运工"
         ]
     },
     {
-        "name": "die Industrie, -n",
+        "name": "die Müllfrau, -en",
         "trans": [
-            "工业"
+            "垃圾清运工(女)"
         ]
     },
     {
-        "name": "die Freiheit, -en",
+        "name": "der Schreiner, -",
         "trans": [
-            "自由(仅单数)；特权,优先权"
+            "木工"
         ]
     },
     {
-        "name": "die Herstellung (nur Sg.)",
+        "name": "der Apotheker, -",
         "trans": [
-            "生产"
+            "药剂师"
         ]
     },
     {
-        "name": "die Neuheit, -en",
+        "name": "die Berufsqualifikation, -en",
         "trans": [
-            "新产品"
+            "职业资格"
         ]
     },
     {
-        "name": "das Modell, -e",
+        "name": "die Umgangsform, -en",
         "trans": [
-            "型号,款式"
+            "礼貌,社交礼节"
         ]
     },
     {
-        "name": "die Qualität, -en",
+        "name": "die Aggression, -en",
         "trans": [
-            "质量"
+            "敌对态度(或行为)"
         ]
     },
     {
-        "name": "die Krise, -n",
+        "name": "der Fehler, -",
         "trans": [
-            "危机"
+            "错误"
         ]
     },
     {
-        "name": "die Marke, -n",
+        "name": "die Schicht, -en",
         "trans": [
-            "品牌"
+            "(工作)班"
         ]
     },
     {
-        "name": "der Unternehmer, -",
+        "name": "die Wahl, -en",
         "trans": [
-            "企业家"
+            "选择"
         ]
     },
     {
-        "name": "die Unternehmerin, -nen",
+        "name": "die Aufgabe, -n",
         "trans": [
-            "企业家(女)"
+            "任务"
         ]
     },
     {
-        "name": "dauern",
+        "name": "die (Müll-)Tonne, -n",
         "trans": [
-            "持续"
+            "垃圾桶"
         ]
     },
     {
-        "name": "entdecken",
+        "name": "der Hof, -ö-e",
         "trans": [
-            "发现"
+            "院子"
         ]
     },
     {
-        "name": "einstellen, stellt ein",
+        "name": "der Dreck (nur Sg.)",
         "trans": [
-            "雇佣"
+            "垃圾,污物"
         ]
     },
     {
-        "name": "wiederfinden, findet wieder",
+        "name": "die Müllabfuhr (nur Sg.)",
         "trans": [
-            "再次找到"
+            "清运垃圾"
         ]
     },
     {
-        "name": "einfallen, fällt ein",
+        "name": "der Clown, -s",
         "trans": [
-            "想起,记起"
+            "小丑"
         ]
     },
     {
-        "name": "öffnen",
+        "name": "die Clownin, -nen",
         "trans": [
-            "为…打开；开放"
+            "小丑(女)"
         ]
     },
     {
-        "name": "schlagen, schlägt",
+        "name": "die Leitung, -en",
         "trans": [
-            "响,鸣"
+            "领导"
         ]
     },
     {
-        "name": "retten",
+        "name": "die Klinik, -en",
         "trans": [
-            "拯救,挽救"
+            "医院,诊所"
         ]
     },
     {
-        "name": "versorgen",
+        "name": "das Pflegeheim, -e",
         "trans": [
-            "提供"
+            "护养院，养老院"
         ]
     },
     {
-        "name": "besetzen",
+        "name": "das Stofftier, -e",
         "trans": [
-            "占领"
+            "毛绒动物玩具"
         ]
     },
     {
-        "name": "sperren",
+        "name": "der Luftballon, -s",
         "trans": [
-            "封锁"
+            "气球"
         ]
     },
     {
-        "name": "demonstrieren",
+        "name": "der Quadratmeter, -",
         "trans": [
-            "举行示威游行"
+            "平方米"
         ]
     },
     {
-        "name": "beitreten, tritt bei",
+        "name": "das Holz, -ö-er",
         "trans": [
-            "加入"
+            "木材(仅单数);木料"
         ]
     },
     {
-        "name": "protestieren",
+        "name": "das Rad, -ä-er",
         "trans": [
-            "抗议,提出异议"
+            "轮子"
         ]
     },
     {
-        "name": "gratis",
+        "name": "das Dach, -ä-er",
         "trans": [
-            "免费的"
+            "屋顶"
         ]
     },
     {
-        "name": "ewig",
+        "name": "der Öfen, -ö",
         "trans": [
-            "永远的,永存的"
+            "炉子"
         ]
     },
     {
-        "name": "lustlos",
+        "name": "der Schirm, -e",
         "trans": [
-            "无精打采的,勉强的"
+            "伞"
         ]
     },
     {
-        "name": "selbstständig",
+        "name": "die Wärmflasche, -n",
         "trans": [
-            "独立的,自主的"
+            "热水袋"
         ]
     },
     {
-        "name": "qualitativ",
+        "name": "das Handtuch, -ü-er",
         "trans": [
-            "质量的,性能的"
+            "毛巾"
         ]
     },
     {
-        "name": "hochwertig",
+        "name": "die Taschenlampe, -n",
         "trans": [
-            "优质的"
+            "手电筒"
         ]
     },
     {
-        "name": "elektronisch",
+        "name": "die Batterie, -n",
         "trans": [
-            "电子的"
+            "电池"
         ]
     },
     {
-        "name": "faul",
+        "name": "das Feuerzeug, -e",
         "trans": [
-            "懒惰的,懒散的"
+            "打火机"
+        ]
+    },
+    {
+        "name": "das Pflaster, -",
+        "trans": [
+            "创可贴"
+        ]
+    },
+    {
+        "name": "der Kochlöffel, -",
+        "trans": [
+            "烹饪木勺"
+        ]
+    },
+    {
+        "name": "das Fernglas, -ä-er",
+        "trans": [
+            "望远镜"
+        ]
+    },
+    {
+        "name": "das Argument, -e",
+        "trans": [
+            "论据,理由"
+        ]
+    },
+    {
+        "name": "der Vorhang, -ä-e",
+        "trans": [
+            "窗帘"
+        ]
+    },
+    {
+        "name": "das Muster, -",
+        "trans": [
+            "花样,图案"
+        ]
+    },
+    {
+        "name": "der Keller, -",
+        "trans": [
+            "地下室"
+        ]
+    },
+    {
+        "name": "der Inhalt, -e",
+        "trans": [
+            "内容"
+        ]
+    },
+    {
+        "name": "der Frieden (nur Sg.)",
+        "trans": [
+            "和平"
+        ]
+    },
+    {
+        "name": "das Wachs (nur Sg.)",
+        "trans": [
+            "蜡"
+        ]
+    },
+    {
+        "name": "der Gesang, -ä-e",
+        "trans": [
+            "歌唱"
+        ]
+    },
+    {
+        "name": "da sein für",
+        "trans": [
+            "在那里(为了…)"
+        ]
+    },
+    {
+        "name": "in Not sein",
+        "trans": [
+            "处于困境"
+        ]
+    },
+    {
+        "name": "im Dienst sein",
+        "trans": [
+            "在工作中"
+        ]
+    },
+    {
+        "name": "sich begeistern für",
+        "trans": [
+            "对…感到兴奋"
+        ]
+    },
+    {
+        "name": "nützen",
+        "trans": [
+            "使用"
+        ]
+    },
+    {
+        "name": "umgehen mit",
+        "trans": [
+            "处理,对待"
+        ]
+    },
+    {
+        "name": "sich verlassen auf",
+        "trans": [
+            "信任"
+        ]
+    },
+    {
+        "name": "sich konzentrieren",
+        "trans": [
+            "集中注意力"
+        ]
+    },
+    {
+        "name": "zählen",
+        "trans": [
+            "点数,计数"
+        ]
+    },
+    {
+        "name": "beantworten",
+        "trans": [
+            "回答"
+        ]
+    },
+    {
+        "name": "erwarten",
+        "trans": [
+            "期待"
+        ]
+    },
+    {
+        "name": "um Rat fragen",
+        "trans": [
+            "征求意见"
+        ]
+    },
+    {
+        "name": "sich kümmern um",
+        "trans": [
+            "照顾"
+        ]
+    },
+    {
+        "name": "wiegen",
+        "trans": [
+            "重量为…"
+        ]
+    },
+    {
+        "name": "stinken",
+        "trans": [
+            "发出臭味"
+        ]
+    },
+    {
+        "name": "ersticken",
+        "trans": [
+            "窒息"
+        ]
+    },
+    {
+        "name": "meckern",
+        "trans": [
+            "发牢骚"
+        ]
+    },
+    {
+        "name": "klopfen",
+        "trans": [
+            "敲"
+        ]
+    },
+    {
+        "name": "sich nähern",
+        "trans": [
+            "接近"
+        ]
+    },
+    {
+        "name": "eine Beziehung aufbauen",
+        "trans": [
+            "建立关系"
+        ]
+    },
+    {
+        "name": "heizen",
+        "trans": [
+            "加热"
+        ]
+    },
+    {
+        "name": "verreisen",
+        "trans": [
+            "外出旅行"
+        ]
+    },
+    {
+        "name": "vermieten",
+        "trans": [
+            "出租"
+        ]
+    },
+    {
+        "name": "beobachten",
+        "trans": [
+            "观察"
+        ]
+    },
+    {
+        "name": "herausfinden",
+        "trans": [
+            "找出来,发现"
+        ]
+    },
+    {
+        "name": "überzeugen",
+        "trans": [
+            "说服"
+        ]
+    },
+    {
+        "name": "überlegen",
+        "trans": [
+            "考虑"
+        ]
+    },
+    {
+        "name": "gründen",
+        "trans": [
+            "建立关系"
+        ]
+    },
+    {
+        "name": "töten",
+        "trans": [
+            "杀死"
+        ]
+    },
+    {
+        "name": "stecken",
+        "trans": [
+            "插入,塞"
+        ]
+    },
+    {
+        "name": "rudern",
+        "trans": [
+            "划船"
+        ]
+    },
+    {
+        "name": "fesseln",
+        "trans": [
+            "捆住,绑住"
+        ]
+    },
+    {
+        "name": "überleben",
+        "trans": [
+            "幸存"
+        ]
+    },
+    {
+        "name": "gefragt",
+        "trans": [
+            "受欢迎的"
+        ]
+    },
+    {
+        "name": "dankbar",
+        "trans": [
+            "感谢的"
+        ]
+    },
+    {
+        "name": "gepflegt",
+        "trans": [
+            "保养得好的"
+        ]
+    },
+    {
+        "name": "aggressiv",
+        "trans": [
+            "好争吵的,攻击性的"
+        ]
+    },
+    {
+        "name": "sensibel",
+        "trans": [
+            "敏感的"
+        ]
+    },
+    {
+        "name": "kräftig",
+        "trans": [
+            "有力的"
+        ]
+    },
+    {
+        "name": "passiv",
+        "trans": [
+            "消极的,被动的"
+        ]
+    },
+    {
+        "name": "unterschiedlich",
+        "trans": [
+            "不同的"
+        ]
+    },
+    {
+        "name": "passend",
+        "trans": [
+            "合适的"
+        ]
+    },
+    {
+        "name": "lateinisch",
+        "trans": [
+            "拉丁语(族)的"
+        ]
+    },
+    {
+        "name": "griechisch",
+        "trans": [
+            "希腊的"
+        ]
+    },
+    {
+        "name": "windstill",
+        "trans": [
+            "无风的"
+        ]
+    },
+    {
+        "name": "überhaupt",
+        "trans": [
+            "根本;总之"
+        ]
+    },
+    {
+        "name": "kaum",
+        "trans": [
+            "几乎不"
         ]
     }
 ]
