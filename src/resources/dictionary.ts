@@ -285,7 +285,7 @@ const germanExam: DictionaryResource[] = [
       "B1"
     ],
     "url": "/dicts/Lektion22.json",
-    "length": 0,
+    "length": 44,
     "language": "de",
     "languageCategory": "de"
   },
@@ -394,7 +394,6 @@ const germanExam: DictionaryResource[] = [
     "languageCategory": "de"
   }
 ]
-
 
 /**
  * Built-in dictionaries in an array.
