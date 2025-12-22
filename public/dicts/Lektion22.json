@@ -2,43 +2,37 @@
     {
         "name": "die Rubrik, -en",
         "trans": [
-            "(图表、书报等的)栏目",
-            "栏"
+            "(图表、书报等的)栏目,栏"
         ]
     },
     {
         "name": "das Ausland (nur Sg.)",
         "trans": [
-            "外国",
-            "国外"
+            "外国,国外"
         ]
     },
     {
         "name": "der Heimweg, -e",
         "trans": [
-            "归途",
-            "回家的路"
+            "归途,回家的路"
         ]
     },
     {
         "name": "der Strich, -e",
         "trans": [
-            "(书写、绘画时)一划",
-            "一笔"
+            "(书写、绘画时)一划,一笔"
         ]
     },
     {
         "name": "die Werkstatt, -ä-en",
         "trans": [
-            "工作室",
-            "车间"
+            "工作室,车间"
         ]
     },
     {
         "name": "der Auftrag, -ä-e",
         "trans": [
-            "订单",
-            "订货"
+            "订单,订货"
         ]
     },
     {
@@ -56,8 +50,7 @@
     {
         "name": "der Hersteller, -",
         "trans": [
-            "生产商",
-            "制造商"
+            "生产商,制造商"
         ]
     },
     {
@@ -87,8 +80,7 @@
     {
         "name": "die Freiheit, -en",
         "trans": [
-            "自由(仅单数)；特权",
-            "优先权"
+            "自由(仅单数)；特权,优先权"
         ]
     },
     {
@@ -106,8 +98,7 @@
     {
         "name": "das Modell, -e",
         "trans": [
-            "型号",
-            "款式"
+            "型号,款式"
         ]
     },
     {
@@ -153,22 +144,21 @@
         ]
     },
     {
-        "name": "einstellen",
+        "name": "einstellen, stellt ein",
         "trans": [
             "雇佣"
         ]
     },
     {
-        "name": "wiederfinden",
+        "name": "wiederfinden, findet wieder",
         "trans": [
             "再次找到"
         ]
     },
     {
-        "name": "einfallen",
+        "name": "einfallen, fällt ein",
         "trans": [
-            "想起",
-            "记起"
+            "想起,记起"
         ]
     },
     {
@@ -178,17 +168,15 @@
         ]
     },
     {
-        "name": "schlagen",
+        "name": "schlagen, schlägt",
         "trans": [
-            "响",
-            "鸣"
+            "响,鸣"
         ]
     },
     {
         "name": "retten",
         "trans": [
-            "拯救",
-            "挽救"
+            "拯救,挽救"
         ]
     },
     {
@@ -216,7 +204,7 @@
         ]
     },
     {
-        "name": "beitreten",
+        "name": "beitreten, tritt bei",
         "trans": [
             "加入"
         ]
@@ -224,8 +212,7 @@
     {
         "name": "protestieren",
         "trans": [
-            "抗议",
-            "提出异议"
+            "抗议,提出异议"
         ]
     },
     {
@@ -237,29 +224,25 @@
     {
         "name": "ewig",
         "trans": [
-            "永远的",
-            "永存的"
+            "永远的,永存的"
         ]
     },
     {
         "name": "lustlos",
         "trans": [
-            "无精打采的",
-            "勉强的"
+            "无精打采的,勉强的"
         ]
     },
     {
         "name": "selbstständig",
         "trans": [
-            "独立的",
-            "自主的"
+            "独立的,自主的"
         ]
     },
     {
         "name": "qualitativ",
         "trans": [
-            "质量的",
-            "性能的"
+            "质量的,性能的"
         ]
     },
     {
@@ -277,8 +260,7 @@
     {
         "name": "faul",
         "trans": [
-            "懒惰的",
-            "懒散的"
+            "懒惰的,懒散的"
         ]
     }
 ]
