@@ -1,1 +1,266 @@
-[]
+[
+    {
+        "name": "die Rubrik, -en",
+        "trans": [
+            "（图表、书报等的）栏目，栏"
+        ]
+    },
+    {
+        "name": "das Ausland (nur Sg.)",
+        "trans": [
+            "外国，国外"
+        ]
+    },
+    {
+        "name": "der Heimweg, -e",
+        "trans": [
+            "归途，回家的路"
+        ]
+    },
+    {
+        "name": "der Strich, -e",
+        "trans": [
+            "（书写、绘画时）一划，一笔"
+        ]
+    },
+    {
+        "name": "die Werkstatt, -ä-en",
+        "trans": [
+            "工作室，车间"
+        ]
+    },
+    {
+        "name": "der Auftrag, -ä-e",
+        "trans": [
+            "订单，订货"
+        ]
+    },
+    {
+        "name": "der Knopf, -ö-e",
+        "trans": [
+            "纽扣"
+        ]
+    },
+    {
+        "name": "die Möglichkeit, -en",
+        "trans": [
+            "可能性；机会"
+        ]
+    },
+    {
+        "name": "der Hersteller, -",
+        "trans": [
+            "生产商，制造商"
+        ]
+    },
+    {
+        "name": "die Herstellerin, -nen",
+        "trans": [
+            "生产商（女）"
+        ]
+    },
+    {
+        "name": "das Plastik (nur Sg.)",
+        "trans": [
+            "塑料"
+        ]
+    },
+    {
+        "name": "das Tabu, -s",
+        "trans": [
+            "禁忌；忌讳"
+        ]
+    },
+    {
+        "name": "die Industrie, -n",
+        "trans": [
+            "工业"
+        ]
+    },
+    {
+        "name": "die Freiheit, -en",
+        "trans": [
+            "自由（仅单数）；特权，优先权"
+        ]
+    },
+    {
+        "name": "die Herstellung (nur Sg.)",
+        "trans": [
+            "生产"
+        ]
+    },
+    {
+        "name": "die Neuheit, -en",
+        "trans": [
+            "新产品"
+        ]
+    },
+    {
+        "name": "das Modell, -e",
+        "trans": [
+            "型号，款式"
+        ]
+    },
+    {
+        "name": "die Qualität, -en",
+        "trans": [
+            "质量"
+        ]
+    },
+    {
+        "name": "die Krise, -n",
+        "trans": [
+            "危机"
+        ]
+    },
+    {
+        "name": "die Marke, -n",
+        "trans": [
+            "品牌"
+        ]
+    },
+    {
+        "name": "der Unternehmer, -",
+        "trans": [
+            "企业家"
+        ]
+    },
+    {
+        "name": "die Unternehmerin, -nen",
+        "trans": [
+            "企业家（女）"
+        ]
+    },
+    {
+        "name": "dauern",
+        "trans": [
+            "持续"
+        ]
+    },
+    {
+        "name": "entdecken",
+        "trans": [
+            "发现"
+        ]
+    },
+    {
+        "name": "einstellen",
+        "trans": [
+            "雇佣"
+        ]
+    },
+    {
+        "name": "wiederfinden",
+        "trans": [
+            "再次找到"
+        ]
+    },
+    {
+        "name": "einfallen",
+        "trans": [
+            "想起，记起"
+        ]
+    },
+    {
+        "name": "öffnen",
+        "trans": [
+            "为…打开；开放"
+        ]
+    },
+    {
+        "name": "schlagen",
+        "trans": [
+            "响，鸣"
+        ]
+    },
+    {
+        "name": "retten",
+        "trans": [
+            "拯救，挽救"
+        ]
+    },
+    {
+        "name": "versorgen",
+        "trans": [
+            "提供"
+        ]
+    },
+    {
+        "name": "besetzen",
+        "trans": [
+            "占领"
+        ]
+    },
+    {
+        "name": "sperren",
+        "trans": [
+            "封锁"
+        ]
+    },
+    {
+        "name": "demonstrieren",
+        "trans": [
+            "举行示威游行"
+        ]
+    },
+    {
+        "name": "beitreten",
+        "trans": [
+            "加入"
+        ]
+    },
+    {
+        "name": "protestieren",
+        "trans": [
+            "抗议，提出异议"
+        ]
+    },
+    {
+        "name": "gratis",
+        "trans": [
+            "免费的"
+        ]
+    },
+    {
+        "name": "ewig",
+        "trans": [
+            "永远的，永存的"
+        ]
+    },
+    {
+        "name": "lustlos",
+        "trans": [
+            "无精打采的，勉强的"
+        ]
+    },
+    {
+        "name": "selbstständig",
+        "trans": [
+            "独立的，自主的"
+        ]
+    },
+    {
+        "name": "qualitativ",
+        "trans": [
+            "质量的，性能的"
+        ]
+    },
+    {
+        "name": "hochwertig",
+        "trans": [
+            "优质的"
+        ]
+    },
+    {
+        "name": "elektronisch",
+        "trans": [
+            "电子的"
+        ]
+    },
+    {
+        "name": "faul",
+        "trans": [
+            "懒惰的，懒散的"
+        ]
+    }
+]
