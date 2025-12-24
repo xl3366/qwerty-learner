@@ -132,6 +132,174 @@
         ]
     },
     {
+        "name": "der Konzern,-e",
+        "trans": [
+            "集团,大企业"
+        ]
+    },
+    {
+        "name": "die Mitternacht,nur Sg",
+        "trans": [
+            "半夜"
+        ]
+    },
+    {
+        "name": "der Gedanke,-n",
+        "trans": [
+            "想法,念头"
+        ]
+    },
+    {
+        "name": "das Motorrad,-ä-er",
+        "trans": [
+            "摩托车"
+        ]
+    },
+    {
+        "name": "die Heimkehr,nur Sg",
+        "trans": [
+            "还乡,回家"
+        ]
+    },
+    {
+        "name": "der Zugang,-ä-e",
+        "trans": [
+            "通道,入口"
+        ]
+    },
+    {
+        "name": "die Bevölkerung,-en",
+        "trans": [
+            "居民"
+        ]
+    },
+    {
+        "name": "die Ware,-n",
+        "trans": [
+            "商品,货物"
+        ]
+    },
+    {
+        "name": "die Mauer,-n",
+        "trans": [
+            "城墙"
+        ]
+    },
+    {
+        "name": "die Erlaubnis,-se",
+        "trans": [
+            "许可,允许"
+        ]
+    },
+    {
+        "name": "die Regierung,-en",
+        "trans": [
+            "政府"
+        ]
+    },
+    {
+        "name": "der Nationalfeiertag,-e",
+        "trans": [
+            "国庆日"
+        ]
+    },
+    {
+        "name": "der Lohn,-ö-e",
+        "trans": [
+            "工资,薪水"
+        ]
+    },
+    {
+        "name": "die Armee,-n",
+        "trans": [
+            "军队"
+        ]
+    },
+    {
+        "name": "der Staat,-en",
+        "trans": [
+            "国家"
+        ]
+    },
+    {
+        "name": "die Grenze,-n",
+        "trans": [
+            "边界,国界"
+        ]
+    },
+    {
+        "name": "der Bürger,-",
+        "trans": [
+            "公民,国民"
+        ]
+    },
+    {
+        "name": "die Bürgerin,-nen",
+        "trans": [
+            "公民,国民(女)"
+        ]
+    },
+    {
+        "name": "das Schaufenster,-",
+        "trans": [
+            "(商店)陈列橱窗"
+        ]
+    },
+    {
+        "name": "die Schranke,-n",
+        "trans": [
+            "栏杆,栏木"
+        ]
+    },
+    {
+        "name": "die Puppe,-n",
+        "trans": [
+            "玩具娃娃,玩偶"
+        ]
+    },
+    {
+        "name": "der Regisseur,-e",
+        "trans": [
+            "导演"
+        ]
+    },
+    {
+        "name": "die Regisseurin,-nen",
+        "trans": [
+            "导演(女)"
+        ]
+    },
+    {
+        "name": "die Vorstellung,-en",
+        "trans": [
+            "想象"
+        ]
+    },
+    {
+        "name": "die Verpackung,-en",
+        "trans": [
+            "包装"
+        ]
+    },
+    {
+        "name": "die Vermutung,-en",
+        "trans": [
+            "猜测,推测"
+        ]
+    },
+    {
+        "name": "das Tausend,-e",
+        "trans": [
+            "(不定量的)千计,数千"
+        ]
+    },
+    {
+        "name": "der Klassenkamerad,-en",
+        "trans": [
+            "同学"
+        ]
+    },
+    {
         "name": "dauern",
         "trans": [
             "持续"
@@ -216,6 +384,54 @@
         ]
     },
     {
+        "name": "eingreifen",
+        "trans": [
+            "干预,插手"
+        ]
+    },
+    {
+        "name": "zurücktreten",
+        "trans": [
+            "退位,辞职"
+        ]
+    },
+    {
+        "name": "kontrollieren",
+        "trans": [
+            "控制"
+        ]
+    },
+    {
+        "name": "fallen",
+        "trans": [
+            "倒塌"
+        ]
+    },
+    {
+        "name": "hochgehen",
+        "trans": [
+            "抬起,升起"
+        ]
+    },
+    {
+        "name": "geboren werden",
+        "trans": [
+            "出生"
+        ]
+    },
+    {
+        "name": "Schlange stehen",
+        "trans": [
+            "排队"
+        ]
+    },
+    {
+        "name": "Gedanken lesen",
+        "trans": [
+            "猜测某人的想法,读心"
+        ]
+    },
+    {
         "name": "gratis",
         "trans": [
             "免费的"
@@ -261,6 +477,36 @@
         "name": "faul",
         "trans": [
             "懒惰的,懒散的"
+        ]
+    },
+    {
+        "name": "sehnsüchtig",
+        "trans": [
+            "渴望的,思慕的"
+        ]
+    },
+    {
+        "name": "konkret",
+        "trans": [
+            "具体的"
+        ]
+    },
+    {
+        "name": "westlich",
+        "trans": [
+            "西方的"
+        ]
+    },
+    {
+        "name": "großartig",
+        "trans": [
+            "了不起的,杰出的"
+        ]
+    },
+    {
+        "name": "hundemüde",
+        "trans": [
+            "非常疲惫的,累得要死的"
         ]
     }
 ]
