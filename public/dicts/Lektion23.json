@@ -30,9 +30,81 @@
         ]
     },
     {
+        "name": "die Methode,-n",
+        "trans": [
+            "方法"
+        ]
+    },
+    {
+        "name": "der/die Befragte,-n",
+        "trans": [
+            "被问询者"
+        ]
+    },
+    {
+        "name": "der Anruf,-e",
+        "trans": [
+            "来电"
+        ]
+    },
+    {
+        "name": "die Kontaktaufnahme,-n",
+        "trans": [
+            "建立联系"
+        ]
+    },
+    {
+        "name": "der Blumenstrauß,-e",
+        "trans": [
+            "花束"
+        ]
+    },
+    {
+        "name": "die Frisur,-en",
+        "trans": [
+            "发型"
+        ]
+    },
+    {
+        "name": "der Mülleimer,-",
+        "trans": [
+            "垃圾桶"
+        ]
+    },
+    {
+        "name": "die Hochzeit,-en",
+        "trans": [
+            "婚礼"
+        ]
+    },
+    {
+        "name": "das Brautpaar,-e",
+        "trans": [
+            "新婚夫妇"
+        ]
+    },
+    {
+        "name": "die Braut,-e",
+        "trans": [
+            "新娘"
+        ]
+    },
+    {
+        "name": "der Bräutigam,-e",
+        "trans": [
+            "新郎"
+        ]
+    },
+    {
+        "name": "der Trauzeuge,-n",
+        "trans": [
+            "证婚人"
+        ]
+    },
+    {
         "name": "die Trauzeugin,-nen",
         "trans": [
-            "证婚人(女)"
+            "证婚人（女）"
         ]
     },
     {
