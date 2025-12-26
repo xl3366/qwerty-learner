@@ -54,7 +54,7 @@
         ]
     },
     {
-        "name": "der Blumenstrauß,-e",
+        "name": "der Blumenstrauß,-ä-e",
         "trans": [
             "花束"
         ]
@@ -84,7 +84,7 @@
         ]
     },
     {
-        "name": "die Braut,-e",
+        "name": "die Braut,-ä-e",
         "trans": [
             "新娘"
         ]
@@ -162,6 +162,222 @@
         ]
     },
     {
+        "name": "das Geschirr,-e",
+        "trans": [
+            "（盛饭菜用的）餐具"
+        ]
+    },
+    {
+        "name": "der Geschmack,nur Sg",
+        "trans": [
+            "品味"
+        ]
+    },
+    {
+        "name": "der Gutschein,-e",
+        "trans": [
+            "礼券，优惠券"
+        ]
+    },
+    {
+        "name": "die Vase,-n",
+        "trans": [
+            "花瓶"
+        ]
+    },
+    {
+        "name": "die Großfamilie,-n",
+        "trans": [
+            "大家庭"
+        ]
+    },
+    {
+        "name": "das Appartement,-s",
+        "trans": [
+            "公寓住房"
+        ]
+    },
+    {
+        "name": "die Kaution,-en",
+        "trans": [
+            "押金"
+        ]
+    },
+    {
+        "name": "die Benutzung,nur Sg",
+        "trans": [
+            "使用"
+        ]
+    },
+    {
+        "name": "der Keller,-",
+        "trans": [
+            "地下室"
+        ]
+    },
+    {
+        "name": "die Waschküche,-n",
+        "trans": [
+            "洗衣间"
+        ]
+    },
+    {
+        "name": "die Aktivität,-en",
+        "trans": [
+            "活动"
+        ]
+    },
+    {
+        "name": "die Kinderbetreuung,nur Sg",
+        "trans": [
+            "照顾儿童"
+        ]
+    },
+    {
+        "name": "die Nachhilfe,nur Sg",
+        "trans": [
+            "补习、辅导"
+        ]
+    },
+    {
+        "name": "die Reparatur,-en",
+        "trans": [
+            "维修"
+        ]
+    },
+    {
+        "name": "das Mitglied,-er",
+        "trans": [
+            "成员"
+        ]
+    },
+    {
+        "name": "die Lebenshaltungskosten,nur Pl",
+        "trans": [
+            "生活费用"
+        ]
+    },
+    {
+        "name": "das Altenheim,-e",
+        "trans": [
+            "养老院"
+        ]
+    },
+    {
+        "name": "die Partnerstadt,-ä-e",
+        "trans": [
+            "伙伴城"
+        ]
+    },
+    {
+        "name": "das Tor,-e",
+        "trans": [
+            "大门"
+        ]
+    },
+    {
+        "name": "der Kontinent,-e",
+        "trans": [
+            "洲"
+        ]
+    },
+    {
+        "name": "der Teil,-e",
+        "trans": [
+            "部分；成员"
+        ]
+    },
+    {
+        "name": "die Begegnung,-en",
+        "trans": [
+            "遇见"
+        ]
+    },
+    {
+        "name": "das Vertrauen,nur Sg",
+        "trans": [
+            "信任"
+        ]
+    },
+    {
+        "name": "die Entdeckung,-en",
+        "trans": [
+            "发现"
+        ]
+    },
+    {
+        "name": "die Börse,-n",
+        "trans": [
+            "交易所"
+        ]
+    },
+    {
+        "name": "das Freibad,-ä-er",
+        "trans": [
+            "露天游泳池"
+        ]
+    },
+    {
+        "name": "die Messe,-n",
+        "trans": [
+            "博览会"
+        ]
+    },
+    {
+        "name": "das Gebäude,-",
+        "trans": [
+            "建筑"
+        ]
+    },
+    {
+        "name": "die Partnerschaft,-en",
+        "trans": [
+            "伙伴关系"
+        ]
+    },
+    {
+        "name": "Sprachkenntnisse,nur Pl",
+        "trans": [
+            "外语知识"
+        ]
+    },
+    {
+        "name": "die Muttersprache,-n",
+        "trans": [
+            "母语"
+        ]
+    },
+    {
+        "name": "die Fremdsprache,-n",
+        "trans": [
+            "外语"
+        ]
+    },
+    {
+        "name": "die Unterstützung,nur Sg",
+        "trans": [
+            "帮助，支持"
+        ]
+    },
+    {
+        "name": "die Vermittlung,nur Sg",
+        "trans": [
+            "介绍，中介"
+        ]
+    },
+    {
+        "name": "der/die Fortgeschrittene,-n",
+        "trans": [
+            "已具有一定水平的学生"
+        ]
+    },
+    {
+        "name": "der Teenager,-",
+        "trans": [
+            "青少年"
+        ]
+    },
+    {
         "name": "zusammengehören",
         "trans": [
             "属于一个整体；配套"
@@ -222,6 +438,42 @@
         ]
     },
     {
+        "name": "reduzieren",
+        "trans": [
+            "降低"
+        ]
+    },
+    {
+        "name": "heimkommen",
+        "trans": [
+            "回家"
+        ]
+    },
+    {
+        "name": "basteln",
+        "trans": [
+            "（手工）制作"
+        ]
+    },
+    {
+        "name": "aufpassen",
+        "trans": [
+            "照料；留心"
+        ]
+    },
+    {
+        "name": "Halt geben",
+        "trans": [
+            "支持"
+        ]
+    },
+    {
+        "name": "Mut machen",
+        "trans": [
+            "使某人振奋，使某人鼓起勇气"
+        ]
+    },
+    {
         "name": "verschieden",
         "trans": [
             "不同的"
@@ -267,6 +519,48 @@
         "name": "feindlich",
         "trans": [
             "敌对的"
+        ]
+    },
+    {
+        "name": "kulturell",
+        "trans": [
+            "文化的"
+        ]
+    },
+    {
+        "name": "intellektuell",
+        "trans": [
+            "智力的"
+        ]
+    },
+    {
+        "name": "gegenseitig",
+        "trans": [
+            "相互的，双方的"
+        ]
+    },
+    {
+        "name": "gesellschaftlich",
+        "trans": [
+            "社会的"
+        ]
+    },
+    {
+        "name": "kostenlos",
+        "trans": [
+            "免费的"
+        ]
+    },
+    {
+        "name": "gleichaltrig",
+        "trans": [
+            "同龄的"
+        ]
+    },
+    {
+        "name": "zweitgrößt-,drittgrößt-",
+        "trans": [
+            "第二大的，第三大的…"
         ]
     }
 ]

@@ -298,7 +298,7 @@ const germanExam: DictionaryResource[] = [
       "B1"
     ],
     "url": "/dicts/Lektion23.json",
-    "length": 45,
+    "length": 94,
     "language": "de",
     "languageCategory": "de"
   },
