@@ -1,1 +1,224 @@
-[]
+[
+    {
+        "name": "die Autobahn,-en",
+        "trans": [
+            "高速公路"
+        ]
+    },
+    {
+        "name": "der Fernreisebus,-se",
+        "trans": [
+            "长途汽车"
+        ]
+    },
+    {
+        "name": "die Landstraße,-n",
+        "trans": [
+            "乡村公路"
+        ]
+    },
+    {
+        "name": "der Lastkraftwagen,-",
+        "trans": [
+            "载重汽车，卡车"
+        ]
+    },
+    {
+        "name": "der Personenkraftwagen,-",
+        "trans": [
+            "客车，轿车"
+        ]
+    },
+    {
+        "name": "die Tankstelle,-n",
+        "trans": [
+            "加油站"
+        ]
+    },
+    {
+        "name": "die Verspätung,-en",
+        "trans": [
+            "迟到"
+        ]
+    },
+    {
+        "name": "die Mobilität,nur Sg",
+        "trans": [
+            "灵活性"
+        ]
+    },
+    {
+        "name": "der Transport,-e",
+        "trans": [
+            "运输"
+        ]
+    },
+    {
+        "name": "das Gut,-ü-e",
+        "trans": [
+            "货物"
+        ]
+    },
+    {
+        "name": "der Rohstoff,-e",
+        "trans": [
+            "原料"
+        ]
+    },
+    {
+        "name": "die Strecke,-n",
+        "trans": [
+            "路段；路程"
+        ]
+    },
+    {
+        "name": "die Milliarde,-n",
+        "trans": [
+            "十亿"
+        ]
+    },
+    {
+        "name": "der Anteil,-e",
+        "trans": [
+            "份额，部分"
+        ]
+    },
+    {
+        "name": "die Dauer,nur Sg",
+        "trans": [
+            "持续时间"
+        ]
+    },
+    {
+        "name": "der Führerschein,-e",
+        "trans": [
+            "驾照"
+        ]
+    },
+    {
+        "name": "der Sportwagen,-",
+        "trans": [
+            "赛车型汽车"
+        ]
+    },
+    {
+        "name": "tanken",
+        "trans": [
+            "给…加油"
+        ]
+    },
+    {
+        "name": "verbinden",
+        "trans": [
+            "连接"
+        ]
+    },
+    {
+        "name": "ermöglichen",
+        "trans": [
+            "使可能"
+        ]
+    },
+    {
+        "name": "zurücklegen",
+        "trans": [
+            "经过，走完"
+        ]
+    },
+    {
+        "name": "nutzen",
+        "trans": [
+            "使用"
+        ]
+    },
+    {
+        "name": "parken",
+        "trans": [
+            "停放"
+        ]
+    },
+    {
+        "name": "verpassen",
+        "trans": [
+            "错过"
+        ]
+    },
+    {
+        "name": "einsetzen",
+        "trans": [
+            "投入使用"
+        ]
+    },
+    {
+        "name": "aufgeben",
+        "trans": [
+            "托运（行李）"
+        ]
+    },
+    {
+        "name": "wechseln",
+        "trans": [
+            "更换"
+        ]
+    },
+    {
+        "name": "pflegen",
+        "trans": [
+            "护理；保养"
+        ]
+    },
+    {
+        "name": "umbauen",
+        "trans": [
+            "改造，改建"
+        ]
+    },
+    {
+        "name": "mobil",
+        "trans": [
+            "活动的"
+        ]
+    },
+    {
+        "name": "durchschnittlich",
+        "trans": [
+            "平均的"
+        ]
+    },
+    {
+        "name": "täglich",
+        "trans": [
+            "每天的"
+        ]
+    },
+    {
+        "name": "gepflegt",
+        "trans": [
+            "保护得好的"
+        ]
+    },
+    {
+        "name": "zahlreich",
+        "trans": [
+            "很多的"
+        ]
+    },
+    {
+        "name": "himmelblau",
+        "trans": [
+            "天蓝色的"
+        ]
+    },
+    {
+        "name": "fahrerlos",
+        "trans": [
+            "无人驾驶的"
+        ]
+    },
+    {
+        "name": "unheimlich",
+        "trans": [
+            "令人害怕的;非常的"
+        ]
+    }
+]
