@@ -102,6 +102,198 @@
         ]
     },
     {
+        "name": "die Verbindung,-en",
+        "trans": [
+            "连接；联系"
+        ]
+    },
+    {
+        "name": "die Durchsage,-n",
+        "trans": [
+            "广播通知"
+        ]
+    },
+    {
+        "name": "der Fluggast,-ä-e",
+        "trans": [
+            "飞机乘客"
+        ]
+    },
+    {
+        "name": "das Gate,-s",
+        "trans": [
+            "门；登机口"
+        ]
+    },
+    {
+        "name": "das Gleis,-e",
+        "trans": [
+            "站台，月台"
+        ]
+    },
+    {
+        "name": "die Umleitung,-en",
+        "trans": [
+            "交通改道，绕行路"
+        ]
+    },
+    {
+        "name": "der Anschlussflug,-ü-e",
+        "trans": [
+            "转机航班"
+        ]
+    },
+    {
+        "name": "der Ausweis,-e",
+        "trans": [
+            "证件"
+        ]
+    },
+    {
+        "name": "die Abfahrt,-en",
+        "trans": [
+            "发车；启航"
+        ]
+    },
+    {
+        "name": "das Benzin,-e",
+        "trans": [
+            "汽油"
+        ]
+    },
+    {
+        "name": "der Diesel,nur Sg",
+        "trans": [
+            "柴油"
+        ]
+    },
+    {
+        "name": "der Schalter,-",
+        "trans": [
+            "（服务）窗口"
+        ]
+    },
+    {
+        "name": "die Zulassung,-en",
+        "trans": [
+            "许可"
+        ]
+    },
+    {
+        "name": "das Fortbewegungsmittel,-",
+        "trans": [
+            "出行工具"
+        ]
+    },
+    {
+        "name": "der Reifen,-",
+        "trans": [
+            "轮胎"
+        ]
+    },
+    {
+        "name": "das Öl,-e",
+        "trans": [
+            "润滑油"
+        ]
+    },
+    {
+        "name": "der Motor,-en",
+        "trans": [
+            "发动机"
+        ]
+    },
+    {
+        "name": "die Bremse,-n",
+        "trans": [
+            "刹车"
+        ]
+    },
+    {
+        "name": "der Sitz,-e",
+        "trans": [
+            "座位"
+        ]
+    },
+    {
+        "name": "der Rost,nur Sg",
+        "trans": [
+            "铁锈"
+        ]
+    },
+    {
+        "name": "die Realität,nur Sg",
+        "trans": [
+            "现实"
+        ]
+    },
+    {
+        "name": "das Lenkrad,-er",
+        "trans": [
+            "方向盘"
+        ]
+    },
+    {
+        "name": "die Entwicklung,-en",
+        "trans": [
+            "发展"
+        ]
+    },
+    {
+        "name": "das Fahrzeug,-e",
+        "trans": [
+            "交通工具，运输工具"
+        ]
+    },
+    {
+        "name": "der Unfall,Unfälle",
+        "trans": [
+            "事故"
+        ]
+    },
+    {
+        "name": "die Gefahr,-en",
+        "trans": [
+            "危险"
+        ]
+    },
+    {
+        "name": "das Glatteis,nur Sg",
+        "trans": [
+            "结冰的路面"
+        ]
+    },
+    {
+        "name": "die Temperatur,-en",
+        "trans": [
+            "气温；温度"
+        ]
+    },
+    {
+        "name": "der Besucher,-",
+        "trans": [
+            "访问者，参观者"
+        ]
+    },
+    {
+        "name": "die Besucherin,-nen",
+        "trans": [
+            "访问者，参观者（女）"
+        ]
+    },
+    {
+        "name": "der Durchschnitt,nur Sg",
+        "trans": [
+            "平均，一般水平"
+        ]
+    },
+    {
+        "name": "der Zusammenhang,-ä-e",
+        "trans": [
+            "相互关系；相互联系"
+        ]
+    },
+    {
         "name": "tanken",
         "trans": [
             "给…加油"
@@ -174,6 +366,66 @@
         ]
     },
     {
+        "name": "lackieren",
+        "trans": [
+            "在…上涂漆"
+        ]
+    },
+    {
+        "name": "einbauen",
+        "trans": [
+            "安装"
+        ]
+    },
+    {
+        "name": "entfernen",
+        "trans": [
+            "去掉"
+        ]
+    },
+    {
+        "name": "beziehen",
+        "trans": [
+            "罩上，换上"
+        ]
+    },
+    {
+        "name": "erkennen",
+        "trans": [
+            "(从迹象)看出"
+        ]
+    },
+    {
+        "name": "einschätzen",
+        "trans": [
+            "估计，评价"
+        ]
+    },
+    {
+        "name": "vorhersehen",
+        "trans": [
+            "预见，预料"
+        ]
+    },
+    {
+        "name": "lenken",
+        "trans": [
+            "驾驶"
+        ]
+    },
+    {
+        "name": "bremsen",
+        "trans": [
+            "刹车"
+        ]
+    },
+    {
+        "name": "am Steuer sitzen",
+        "trans": [
+            "驾驶（车辆）"
+        ]
+    },
+    {
         "name": "mobil",
         "trans": [
             "活动的"
@@ -219,6 +471,36 @@
         "name": "unheimlich",
         "trans": [
             "令人害怕的;非常的"
+        ]
+    },
+    {
+        "name": "faszinierend",
+        "trans": [
+            "迷人的"
+        ]
+    },
+    {
+        "name": "unkonzentriert",
+        "trans": [
+            "注意力不集中的"
+        ]
+    },
+    {
+        "name": "technisch",
+        "trans": [
+            "技术的"
+        ]
+    },
+    {
+        "name": "deutlich",
+        "trans": [
+            "明显的"
+        ]
+    },
+    {
+        "name": "vorsichtig",
+        "trans": [
+            "小心的"
         ]
     }
 ]
