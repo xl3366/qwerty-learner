@@ -1,1 +1,206 @@
-[]
+[
+    {
+        "name": "der Lebensraum,-ä-e",
+        "trans": [
+            "生活空间"
+        ]
+    },
+    {
+        "name": "der Hase,-n",
+        "trans": [
+            "兔子"
+        ]
+    },
+    {
+        "name": "das Reh,-e",
+        "trans": [
+            "鹿"
+        ]
+    },
+    {
+        "name": "der Fuchs,-ü-e",
+        "trans": [
+            "狐狸"
+        ]
+    },
+    {
+        "name": "der Pilz,-e",
+        "trans": [
+            "蘑菇"
+        ]
+    },
+    {
+        "name": "die Beere,-n",
+        "trans": [
+            "浆果"
+        ]
+    },
+    {
+        "name": "der Strauch,-ä-e",
+        "trans": [
+            "灌木"
+        ]
+    },
+    {
+        "name": "die Mücke,-n",
+        "trans": [
+            "蚊子"
+        ]
+    },
+    {
+        "name": "der Nadelbaum,-e",
+        "trans": [
+            "针叶树"
+        ]
+    },
+    {
+        "name": "der Laubbaum,-e",
+        "trans": [
+            "落叶树，阔叶树"
+        ]
+    },
+    {
+        "name": "das Blatt,-ä-er",
+        "trans": [
+            "叶（片），瓣"
+        ]
+    },
+    {
+        "name": "der Hektar(ha)",
+        "trans": [
+            "公顷"
+        ]
+    },
+    {
+        "name": "die Fläche,-n",
+        "trans": [
+            "面积"
+        ]
+    },
+    {
+        "name": "das Viertel,-",
+        "trans": [
+            "四分之一"
+        ]
+    },
+    {
+        "name": "der Rest,-e",
+        "trans": [
+            "剩余，残余"
+        ]
+    },
+    {
+        "name": "der Pädagoge,-n",
+        "trans": [
+            "教育学家，教师"
+        ]
+    },
+    {
+        "name": "der Waldarbeiter,-",
+        "trans": [
+            "森林工作人员"
+        ]
+    },
+    {
+        "name": "der Förster,-",
+        "trans": [
+            "森林管理员"
+        ]
+    },
+    {
+        "name": "wachsen",
+        "trans": [
+            "增长，生长"
+        ]
+    },
+    {
+        "name": "ernten",
+        "trans": [
+            "收获"
+        ]
+    },
+    {
+        "name": "zunehmen",
+        "trans": [
+            "增加"
+        ]
+    },
+    {
+        "name": "aktivieren",
+        "trans": [
+            "激发，促进，增强"
+        ]
+    },
+    {
+        "name": "wecken",
+        "trans": [
+            "唤起，呼唤，引起"
+        ]
+    },
+    {
+        "name": "schützen",
+        "trans": [
+            "保护"
+        ]
+    },
+    {
+        "name": "fallen",
+        "trans": [
+            "砍伐"
+        ]
+    },
+    {
+        "name": "befahren",
+        "trans": [
+            "在…上行驶"
+        ]
+    },
+    {
+        "name": "verletzen",
+        "trans": [
+            "伤害，使…受伤"
+        ]
+    },
+    {
+        "name": "sorgen für",
+        "trans": [
+            "关心，照料，照管"
+        ]
+    },
+    {
+        "name": "bedeckt",
+        "trans": [
+            "覆盖的，遮盖的"
+        ]
+    },
+    {
+        "name": "verantwortungsbewusst",
+        "trans": [
+            "有责任心的，认真负责的"
+        ]
+    },
+    {
+        "name": "teamfähig",
+        "trans": [
+            "有团队意识的"
+        ]
+    },
+    {
+        "name": "klug",
+        "trans": [
+            "聪明的"
+        ]
+    },
+    {
+        "name": "charmant",
+        "trans": [
+            "迷人的，令人喜悦的，有魅力的"
+        ]
+    },
+    {
+        "name": "flexibel",
+        "trans": [
+            "可弯曲的"
+        ]
+    }
+]
