@@ -108,6 +108,144 @@
         ]
     },
     {
+        "name": "der Sinn,-e",
+        "trans": [
+            "官能，感官；意义"
+        ]
+    },
+    {
+        "name": "das Gleichgewicht,nur Sg",
+        "trans": [
+            "平衡"
+        ]
+    },
+    {
+        "name": "der Respekt,nur Sg",
+        "trans": [
+            "尊重"
+        ]
+    },
+    {
+        "name": "die Funktion,-en",
+        "trans": [
+            "功能"
+        ]
+    },
+    {
+        "name": "der Schutz,nur Sg",
+        "trans": [
+            "保护"
+        ]
+    },
+    {
+        "name": "das Gebiet,-e",
+        "trans": [
+            "区域"
+        ]
+    },
+    {
+        "name": "das Material,-ien",
+        "trans": [
+            "材料"
+        ]
+    },
+    {
+        "name": "der Beton,nur Sg",
+        "trans": [
+            "混凝土"
+        ]
+    },
+    {
+        "name": "der Stahl,nur Sg",
+        "trans": [
+            "钢"
+        ]
+    },
+    {
+        "name": "das Metall,-e",
+        "trans": [
+            "金属"
+        ]
+    },
+    {
+        "name": "der Stoff,-e",
+        "trans": [
+            "织物，料子"
+        ]
+    },
+    {
+        "name": "die Wolle,nur Sg",
+        "trans": [
+            "羊毛"
+        ]
+    },
+    {
+        "name": "das Leder,nur Sg",
+        "trans": [
+            "皮革"
+        ]
+    },
+    {
+        "name": "der Sand,nur Sg",
+        "trans": [
+            "沙，沙子"
+        ]
+    },
+    {
+        "name": "der Baumstamm,-ä-e",
+        "trans": [
+            "树干"
+        ]
+    },
+    {
+        "name": "der Pionier,-e",
+        "trans": [
+            "先锋，开拓者"
+        ]
+    },
+    {
+        "name": "der Baustoff,-e",
+        "trans": [
+            "建筑材料"
+        ]
+    },
+    {
+        "name": "der Betrieb,-e",
+        "trans": [
+            "企业，工厂；工场"
+        ]
+    },
+    {
+        "name": "die Tradition,-en",
+        "trans": [
+            "传统"
+        ]
+    },
+    {
+        "name": "der Esel,-",
+        "trans": [
+            "驴"
+        ]
+    },
+    {
+        "name": "der Hahn,-ä-e",
+        "trans": [
+            "公鸡"
+        ]
+    },
+    {
+        "name": "der Räuber,-",
+        "trans": [
+            "强盗"
+        ]
+    },
+    {
+        "name": "der Effekt,-e",
+        "trans": [
+            "效果，作用"
+        ]
+    },
+    {
         "name": "wachsen",
         "trans": [
             "增长，生长"
@@ -168,6 +306,78 @@
         ]
     },
     {
+        "name": "beurteilen",
+        "trans": [
+            "评价"
+        ]
+    },
+    {
+        "name": "klingen",
+        "trans": [
+            "听起来"
+        ]
+    },
+    {
+        "name": "kombinieren",
+        "trans": [
+            "使组合，使联合"
+        ]
+    },
+    {
+        "name": "bemerken",
+        "trans": [
+            "发觉，注意到"
+        ]
+    },
+    {
+        "name": "weinen",
+        "trans": [
+            "哭泣"
+        ]
+    },
+    {
+        "name": "beschließen",
+        "trans": [
+            "决定"
+        ]
+    },
+    {
+        "name": "den Tisch decken",
+        "trans": [
+            "摆桌子"
+        ]
+    },
+    {
+        "name": "verjagen",
+        "trans": [
+            "驱赶"
+        ]
+    },
+    {
+        "name": "reiten",
+        "trans": [
+            "骑"
+        ]
+    },
+    {
+        "name": "abbauen",
+        "trans": [
+            "减少；消除（压力等）"
+        ]
+    },
+    {
+        "name": "den Kopf frei machen",
+        "trans": [
+            "放空大脑"
+        ]
+    },
+    {
+        "name": "ausführen,",
+        "trans": [
+            "带…出去散步，遛"
+        ]
+    },
+    {
         "name": "bedeckt",
         "trans": [
             "覆盖的，遮盖的"
@@ -201,6 +411,48 @@
         "name": "flexibel",
         "trans": [
             "可弯曲的"
+        ]
+    },
+    {
+        "name": "traditionell",
+        "trans": [
+            "传统的"
+        ]
+    },
+    {
+        "name": "fleißig",
+        "trans": [
+            "勤奋的"
+        ]
+    },
+    {
+        "name": "schwach",
+        "trans": [
+            "虚弱的，脆弱的"
+        ]
+    },
+    {
+        "name": "beleuchtet",
+        "trans": [
+            "明亮的，发光的"
+        ]
+    },
+    {
+        "name": "elementar",
+        "trans": [
+            "基础的，初步的"
+        ]
+    },
+    {
+        "name": "verbreitet",
+        "trans": [
+            "流行的，广为传播的"
+        ]
+    },
+    {
+        "name": "stumm",
+        "trans": [
+            "哑的"
         ]
     }
 ]
