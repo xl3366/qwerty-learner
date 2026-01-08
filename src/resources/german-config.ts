@@ -34,7 +34,7 @@ export const germanExam: DictionaryResource[] = [
       "A1"
     ],
     "url": "/dicts/Lektion03.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -47,7 +47,7 @@ export const germanExam: DictionaryResource[] = [
       "A1"
     ],
     "url": "/dicts/Lektion04.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -60,7 +60,7 @@ export const germanExam: DictionaryResource[] = [
       "A1"
     ],
     "url": "/dicts/Lektion05.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -73,7 +73,7 @@ export const germanExam: DictionaryResource[] = [
       "A1"
     ],
     "url": "/dicts/Lektion06.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -86,7 +86,7 @@ export const germanExam: DictionaryResource[] = [
       "A1"
     ],
     "url": "/dicts/Lektion07.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -99,7 +99,7 @@ export const germanExam: DictionaryResource[] = [
       "A1"
     ],
     "url": "/dicts/Lektion08.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -112,7 +112,7 @@ export const germanExam: DictionaryResource[] = [
       "A1"
     ],
     "url": "/dicts/Lektion09.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -125,7 +125,7 @@ export const germanExam: DictionaryResource[] = [
       "A1"
     ],
     "url": "/dicts/Lektion10.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -203,7 +203,7 @@ export const germanExam: DictionaryResource[] = [
       "A2"
     ],
     "url": "/dicts/Lektion16.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -216,7 +216,7 @@ export const germanExam: DictionaryResource[] = [
       "A2"
     ],
     "url": "/dicts/Lektion17.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -229,7 +229,7 @@ export const germanExam: DictionaryResource[] = [
       "A2"
     ],
     "url": "/dicts/Lektion18.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -242,7 +242,7 @@ export const germanExam: DictionaryResource[] = [
       "A2"
     ],
     "url": "/dicts/Lektion19.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -255,7 +255,7 @@ export const germanExam: DictionaryResource[] = [
       "A2"
     ],
     "url": "/dicts/Lektion20.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -333,7 +333,7 @@ export const germanExam: DictionaryResource[] = [
       "B1"
     ],
     "url": "/dicts/Lektion26.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -346,7 +346,7 @@ export const germanExam: DictionaryResource[] = [
       "B1"
     ],
     "url": "/dicts/Lektion27.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -359,7 +359,7 @@ export const germanExam: DictionaryResource[] = [
       "B1"
     ],
     "url": "/dicts/Lektion28.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -372,7 +372,7 @@ export const germanExam: DictionaryResource[] = [
       "B1"
     ],
     "url": "/dicts/Lektion29.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   },
@@ -385,10 +385,8 @@ export const germanExam: DictionaryResource[] = [
       "B1"
     ],
     "url": "/dicts/Lektion30.json",
-    "length": 1,
+    "length": 0,
     "language": "de",
     "languageCategory": "de"
   }
-]
-
-export default germanExam
+];
