@@ -1,3 +1,5 @@
+import type { DictionaryResource } from '@/typings/index'
+
 const germanExam: DictionaryResource[] = [
   {
     "id": "lektion01",
@@ -389,4 +391,6 @@ const germanExam: DictionaryResource[] = [
     "language": "de",
     "languageCategory": "de"
   }
-];
+]
+
+export default germanExam
