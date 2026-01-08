@@ -1,5 +1,3 @@
-import type { DictionaryResource } from '@/typings/index'
-
 export const germanExam: DictionaryResource[] = [
   {
     "id": "lektion01",
