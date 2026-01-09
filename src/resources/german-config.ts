@@ -320,7 +320,7 @@ export const germanExam: DictionaryResource[] = [
       "B1"
     ],
     "url": "/dicts/Lektion25.json",
-    "length": 76,
+    "length": 95,
     "language": "de",
     "languageCategory": "de"
   },

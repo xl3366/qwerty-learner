@@ -246,6 +246,60 @@
         ]
     },
     {
+        "name": "die Nahrung,nur Sg",
+        "trans": [
+            "食物"
+        ]
+    },
+    {
+        "name": "der Schatten,-",
+        "trans": [
+            "影子，阴影"
+        ]
+    },
+    {
+        "name": "der Wissenschaftler,-",
+        "trans": [
+            "科学家"
+        ]
+    },
+    {
+        "name": "das Gebirge,-",
+        "trans": [
+            "山，山脉"
+        ]
+    },
+    {
+        "name": "das Volkslied,-er",
+        "trans": [
+            "民歌"
+        ]
+    },
+    {
+        "name": "der Abschied,-e",
+        "trans": [
+            "离别，告别"
+        ]
+    },
+    {
+        "name": "die Art,-en",
+        "trans": [
+            "种类，形式"
+        ]
+    },
+    {
+        "name": "die Melodie,-n",
+        "trans": [
+            "旋律，曲调"
+        ]
+    },
+    {
+        "name": "der Unterschied,-e",
+        "trans": [
+            "区别"
+        ]
+    },
+    {
         "name": "wachsen",
         "trans": [
             "增长，生长"
@@ -372,9 +426,33 @@
         ]
     },
     {
-        "name": "ausführen,",
+        "name": "ausführen",
         "trans": [
             "带…出去散步，遛"
+        ]
+    },
+    {
+        "name": "wirken",
+        "trans": [
+            "起作用，生效"
+        ]
+    },
+    {
+        "name": "senken",
+        "trans": [
+            "降低"
+        ]
+    },
+    {
+        "name": "behandeln",
+        "trans": [
+            "对待；处理"
+        ]
+    },
+    {
+        "name": "sich verlaufen",
+        "trans": [
+            "迷路，走错"
         ]
     },
     {
@@ -453,6 +531,42 @@
         "name": "stumm",
         "trans": [
             "哑的"
+        ]
+    },
+    {
+        "name": "davon",
+        "trans": [
+            "其中"
+        ]
+    },
+    {
+        "name": "längst",
+        "trans": [
+            "早就"
+        ]
+    },
+    {
+        "name": "drinnen",
+        "trans": [
+            "里面"
+        ]
+    },
+    {
+        "name": "draußen",
+        "trans": [
+            "外面"
+        ]
+    },
+    {
+        "name": "anti-",
+        "trans": [
+            "反…的"
+        ]
+    },
+    {
+        "name": "sogar",
+        "trans": [
+            "甚至"
         ]
     }
 ]
